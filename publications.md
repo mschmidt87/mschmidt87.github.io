@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Computational Neuroscience
 
 - Schmidt M, Bakker R, Hilgetag C-C, Diesmann M, and van Albada SJ (2017) Multi-scale account of the network structure of macaque visual cortex. _Brain Structure and Function (2017)_, [Link](https://doi.org/10.1007/s00429-017-1554-4)
