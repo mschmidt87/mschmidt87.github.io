@@ -19,7 +19,7 @@ title: Publications
 
 - Schmidt M, Erne S, Nowak B, Sexty D, and Gasenzer T. (2012) Non-thermal fixed points and solitons in a one-dimensional Bose gas. _New Journal of Physics, 14(7), 075005_ [Link](http://iopscience.iop.org/article/10.1088/1367-2630/14/7/075005/meta)
 
-## General interest
+## General Interest
 
 - Schmidt M, Schuecker J, van Albada SJ, Diesmann M, Helias M (2017), Stability Confinement of the Brain Connectome. _Inside - Innovatives Supercomputing in Deutschland_ [Link](http://inside.hlrs.de/assets/pdfs/inside_spring17.pdf)
 - van Albada SJ, Diesmann M, Eppler JM, Hentschel B, Kuhlen T, Nowke C, Reske M, Schmidt
