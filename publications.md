@@ -7,17 +7,27 @@ title: Publications
 
 - Schmidt M, Bakker R, Hilgetag C-C, Diesmann M, and van Albada SJ (2017) Multi-scale account of the network structure of macaque visual cortex. _Brain Structure and Function (2017)_, [Link](https://doi.org/10.1007/s00429-017-1554-4)
 
+   <img src="img/mam.svg" alt="Multi-area model" style="width: 350px;"/>
+
 - Schuecker J*, Schmidt M*, van Albada SJ, Diesmann M, and Helias M. (2017) Fundamental activity constraints lead to specific interpretations of the connectome. _PLoS Computational Biology 13(2): e1005179_, [Link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005179) * Both authors contributed equally.
+
+   <img src="img/stabilization.png" alt="Stabilization" style="width: 250px;"/>
 
 ## Scientific Software
 
 - Kunkel S, Schmidt M, Eppler JM, Plesser HE, Masumoto G, Igarashi J, Ishii S, Fukai T, Morrison A, Diesmann M, and Helias M. (2014) Spiking network simulation code for petascale computers. _Frontiers in Neuroinformatics 8:78_ [Link](http://journal.frontiersin.org/article/10.3389/fninf.2014.00078/full)
 
+   <img src="img/nest_4g.svg" alt="NEST 4G" style="width: 250px;"/>
+
 - Nowke C, Schmidt M, van Albada SJ, Eppler JM, Bakker R, Diesmann M, Hentschel B and Kuhlen T (2013) \newline VisNEST—Interactive analysis of neural activity data. _IEEE Symposium on Biological Data Visualization (BioVis) 2013 (pp. 65-72)_ [Link](http://ieeexplore.ieee.org/document/6664348/?arnumber=6664348&tag=1)
+
+   <img src="img/visnest.png" alt="VisNEST" style="width: 250px;"/>
 
 ## Quantum Mechanics
 
 - Schmidt M, Erne S, Nowak B, Sexty D, and Gasenzer T. (2012) Non-thermal fixed points and solitons in a one-dimensional Bose gas. _New Journal of Physics, 14(7), 075005_ [Link](http://iopscience.iop.org/article/10.1088/1367-2630/14/7/075005/meta)
+
+   <img src="img/solitons.png" alt="Solitons" style="width: 250px;"/>
 
 ## General Interest
 
