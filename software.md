@@ -1,6 +1,6 @@
 ## Computational Neuroscience
 
-I have been contributing to the neural network simulator NEST since 2012 ([www.nest-simulator.org](www.nest-simulator.org)), see [NEST on github](https://github.com/nest/nest-simulator).
+I have been contributing to the [neural network simulator NEST](https://www.nest-simulator.org) since 2012, see [NEST on github](https://github.com/nest/nest-simulator).
 
 ## Python software
 
