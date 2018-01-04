@@ -13,8 +13,15 @@ title: Publications
 
 - Kunkel S, Schmidt M, Eppler JM, Plesser HE, Masumoto G, Igarashi J, Ishii S, Fukai T, Morrison A, Diesmann M, and Helias M. (2014) Spiking network simulation code for petascale computers. _Frontiers in Neuroinformatics 8:78_ [Link](http://journal.frontiersin.org/article/10.3389/fninf.2014.00078/full)
 
-- Nowke C, Schmidt M, van Albada SJ, Eppler JM, Bakker R, Diesmann M, Hentschel B and Kuhlen T (2013) \newline VisNEST—Interactive analysis of neural activity data. _IEEE Symposium on Biological Data Visualization (BioVis) 2013 (pp. 65-72)_ [Link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6664348&tag=1)
+- Nowke C, Schmidt M, van Albada SJ, Eppler JM, Bakker R, Diesmann M, Hentschel B and Kuhlen T (2013) \newline VisNEST—Interactive analysis of neural activity data. _IEEE Symposium on Biological Data Visualization (BioVis) 2013 (pp. 65-72)_ [Link](http://ieeexplore.ieee.org/document/6664348/?arnumber=6664348&tag=1)
 
 ## Quantum Mechanics
 
 - Schmidt M, Erne S, Nowak B, Sexty D, and Gasenzer T. (2012) Non-thermal fixed points and solitons in a one-dimensional Bose gas. _New Journal of Physics, 14(7), 075005_ [Link](http://iopscience.iop.org/article/10.1088/1367-2630/14/7/075005/meta)
+
+## General interest
+
+- Schmidt M, Schuecker J, van Albada SJ, Diesmann M, Helias M (2017), Stability Confinement of the Brain Connectome. _Inside - Innovatives Supercomputing in Deutschland_ [Link](http://inside.hlrs.de/assets/pdfs/inside_spring17.pdf)
+- van Albada SJ, Diesmann M, Eppler JM, Hentschel B, Kuhlen T, Nowke C, Reske M, Schmidt
+M (2014) Modellierung und 3D-Visualisierung neuronaler Netzwerke in der Größenordnung des
+Gehirns. _RWTH Intern_
