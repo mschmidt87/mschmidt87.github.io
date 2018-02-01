@@ -2,6 +2,10 @@
 
 I have been contributing to the [neural network simulator NEST](https://www.nest-simulator.org) since 2012, see [NEST on github](https://github.com/nest/nest-simulator).
 
+## Machine Learning
+
+I have a collection of machine learning models that I implemented for testing and educational purposes. Currently, it comprises code for an autoencoder and a variational autoencoder. The code is hosted in my public github repository: [ml_code](https://github.com/mschmidt87/ml_code).
+
 ## Python software
 
 I have co-authored two small Python libaries:
