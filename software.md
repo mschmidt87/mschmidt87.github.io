@@ -9,8 +9,8 @@ I have a collection of machine learning models that I implemented for testing an
 ## Python software
 
 I have co-authored two small Python libaries:
-- `python-dicthash` [(github repository)](https://github.com/INM-6/python-dicthash): A python module that generates md5 hashes from arbitrarily nested dictionaries.
+- `python-dicthash` [(github repository)](https://github.com/INM-6/python-dicthash): A python module that generates md5 hashes from arbitrarily nested dictionaries. See also the [documentation website](http://python-dicthash.readthedocs.io/en/latest/) and [python-dicthash on pypi](https://pypi.python.org/pypi/dicthash/).
 
-- `h5py_wrapper` [(github repository)](https://github.com/INM-6/h5py_wrapper): A python module that stores nested dictionaries in hdf5 files, wraps around the h5py library. See also [documentation website](http://h5py-wrapper.readthedocs.io/en/latest/) and [h5py_wrapper on pypi](https://pypi.python.org/pypi/h5py-wrapper/1.0.1).
+- `h5py_wrapper` [(github repository)](https://github.com/INM-6/h5py_wrapper): A python module that stores nested dictionaries in hdf5 files, wraps around the h5py library. See also the [documentation website](http://h5py-wrapper.readthedocs.io/en/latest/) and [h5py_wrapper on pypi](https://pypi.python.org/pypi/h5py-wrapper/).
 
 
