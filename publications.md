@@ -5,11 +5,19 @@ title: Publications
 
 ## Computational Neuroscience
 
+- Schmidt M, Bakker R, Shen K, Bezgin G, Diesmann M, van Albada SJ (2018) A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas. PLoS Comput Biol 14(10): e1006359. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)
+
+   <img src="img/Schmidt2018_dyn.svg" alt="Multi-area model" style="width: 350px;"/>
+   
+- van Albada SJ., Rowley AG., Senk J., Hopkins M., Schmidt M., Stokes AB., Lester DR., Diesmann M., Furber SB. (2018) Performance comparison of the digital neuromorphic hardware SpiNNaker and the neural network simulation software NEST for a full-scale cortical microcircuit model. Frontiers in Neuroscience 12:291 DOI:10.3389/fnins.2018.00291 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00291/full)
+
+   <img src="img/spinnaker.png" alt="Spinnaker-NEST comparison" style="width: 350px;"/>
+   
 - Schmidt M, Bakker R, Hilgetag C-C, Diesmann M, and van Albada SJ (2017) Multi-scale account of the network structure of macaque visual cortex. _Brain Structure and Function (2017)_, [Link](https://doi.org/10.1007/s00429-017-1554-4)
 
    <img src="img/mam.svg" alt="Multi-area model" style="width: 350px;"/>
 
-- Schuecker J*, Schmidt M*, van Albada SJ, Diesmann M, and Helias M. (2017) Fundamental activity constraints lead to specific interpretations of the connectome. _PLoS Computational Biology 13(2): e1005179_, [Link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005179) * Both authors contributed equally.
+- Schuecker J*, Schmidt M*, van Albada SJ, Diesmann M, and Helias M. (2017) Fundamental activity constraints lead to specific interpretations of the connectome. _PLoS Computational Biology 13(2): e1005179_, [Link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005179) * Schuecker J and Schmidt M contributed equally.
 
    <img src="img/stabilization.png" alt="Stabilization" style="width: 250px;"/>
 
