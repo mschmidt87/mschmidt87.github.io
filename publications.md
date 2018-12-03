@@ -13,7 +13,7 @@ title: Publications
 
    <img src="img/spinnaker.png" alt="Spinnaker-NEST comparison" style="width: 350px;"/>
    
-- Schmidt M, Bakker R, Hilgetag C-C, Diesmann M, and van Albada SJ (2017) Multi-scale account of the network structure of macaque visual cortex. _Brain Structure and Function (2017)_, [Link](https://doi.org/10.1007/s00429-017-1554-4)
+- Schmidt M, Bakker R, Hilgetag C-C, Diesmann M, and van Albada SJ (2017) Multi-scale account of the network structure of macaque visual cortex. _Brain Structure and Function (2018) 223: 1409_, [Link](https://doi.org/10.1007/s00429-017-1554-4)
 
    <img src="img/mam.svg" alt="Multi-area model" style="width: 350px;"/>
 
