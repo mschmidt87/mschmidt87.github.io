@@ -5,11 +5,11 @@ title: Publications
 
 ## Computational Neuroscience
 
-- Schmidt M, Bakker R, Shen K, Bezgin G, Diesmann M, van Albada SJ (2018) A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas. PLoS Comput Biol 14(10): e1006359. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)
+- Schmidt M, Bakker R, Shen K, Bezgin G, Diesmann M, van Albada SJ (2018) A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas. _PLoS Comput Biol 14(10): e1006359_. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)
 
    <img src="img/Schmidt2018_dyn.svg" alt="Multi-area model" style="width: 350px;"/>
    
-- van Albada SJ., Rowley AG., Senk J., Hopkins M., Schmidt M., Stokes AB., Lester DR., Diesmann M., Furber SB. (2018) Performance comparison of the digital neuromorphic hardware SpiNNaker and the neural network simulation software NEST for a full-scale cortical microcircuit model. Frontiers in Neuroscience 12:291 DOI:10.3389/fnins.2018.00291 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00291/full)
+- van Albada SJ., Rowley AG., Senk J., Hopkins M., Schmidt M., Stokes AB., Lester DR., Diesmann M., Furber SB. (2018) Performance comparison of the digital neuromorphic hardware SpiNNaker and the neural network simulation software NEST for a full-scale cortical microcircuit model. _Frontiers in Neuroscience 12:291_ DOI:10.3389/fnins.2018.00291 [Link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00291/full)
 
    <img src="img/spinnaker.png" alt="Spinnaker-NEST comparison" style="width: 350px;"/>
    
