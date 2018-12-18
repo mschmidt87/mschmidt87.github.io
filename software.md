@@ -1,7 +1,7 @@
 ## Computational Neuroscience
 
 - I have been contributing to the [neural network simulator NEST](https://www.nest-simulator.org) since 2012, see [NEST on github](https://github.com/nest/nest-simulator).
-- We published the code of the Multi-area Visual Cortex model that was developed as part of my PhD thesis at Juelich Research Centre in a public github repository: [https://github.com/INM-6/multi-area-model](https://github.com/INM-6/multi-area-model).
+- We published the code of the Multi-area Visual Cortex model that was developed as part of my PhD thesis at Juelich Research Centre in a public github repository: [https://github.com/INM-6/multi-area-model](https://inm-6.github.io/multi-area-model/).
 
 ## Machine Learning
 
