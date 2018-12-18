@@ -5,7 +5,7 @@
 
 ## Machine Learning
 
-I have a collection of machine learning models that I implemented for testing and educational purposes. Currently, it comprises code for an autoencoder and a variational autoencoder. The code is hosted in my public github repository: [ml_code](https://github.com/mschmidt87/ml_code).
+I have a collection of machine learning models that I implemented for testing and educational purposes. The code is hosted in my public github repository: [ml_code](https://github.com/mschmidt87/ml_code).
 
 ## Python software
 
