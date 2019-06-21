@@ -2,7 +2,12 @@
 layout: default
 title: Publications
 ---
+## Machine Learning
 
+- Schmidt M, Simic M (2019) Normalizing flows for novelty detection in industrial time series data, First workshop on Invertible Neural Networks and Normalizing Flows (ICML 2019), Long Beach, CA, USA [Workshop link](https://invertibleworkshop.github.io/), [https://arxiv.org/abs/1906.06904](https://arxiv.org/abs/1906.06904)
+
+   <img src="img/anomaly_flows.png" alt="Anomaly flows" style="width: 350px;"/>
+   
 ## Computational Neuroscience
 
 - Schmidt M, Bakker R, Shen K, Bezgin G, Diesmann M, van Albada SJ (2018) A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas. _PLoS Comput Biol 14(10): e1006359_. [ https://doi.org/10.1371/journal.pcbi.1006359](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)
