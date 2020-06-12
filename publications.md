@@ -10,7 +10,7 @@ title: Publications
    
 ## Computational Neuroscience
 
-- Jordan, J*, Schmidt, M*, Senn, W, & Petrovici, MA (2020). Evolving to learn: discovering interpretable plasticity rules for spiking networks. arXiv preprint arXiv:2005.14149. *Jordan M and Schmidt M contributed equally.
+- Jordan, J*, Schmidt, M*, Senn, W, & Petrovici, MA (2020). Evolving to learn: discovering interpretable plasticity rules for spiking networks. arXiv preprint arXiv:2005.14149. *Jordan J and Schmidt M contributed equally.
 
    <img src="img/intro_microcircuit.svg" alt="Evolving to learn" style="width: 350px;"/>
 
