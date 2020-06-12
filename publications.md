@@ -10,6 +10,10 @@ title: Publications
    
 ## Computational Neuroscience
 
+- Jordan, J*, Schmidt, M*, Senn, W, & Petrovici, MA (2020). Evolving to learn: discovering interpretable plasticity rules for spiking networks. arXiv preprint arXiv:2005.14149. *Jordan M and Schmidt M contributed equally.
+
+   <img src="img/intro_microcircuit.svg" alt="Evolving to learn" style="width: 350px;"/>
+
 - Schmidt M, Bakker R, Shen K, Bezgin G, Diesmann M, van Albada SJ (2018) A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas. _PLoS Comput Biol 14(10): e1006359_. [ https://doi.org/10.1371/journal.pcbi.1006359](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)
 
 
