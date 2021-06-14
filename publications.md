@@ -10,7 +10,7 @@ title: Publications
    
 ## Computational Neuroscience
 
-- Jordan, J*, Schmidt, M*, Senn, W, & Petrovici, MA (2020). Evolving to learn: discovering interpretable plasticity rules for spiking networks. arXiv preprint arXiv:2005.14149. *Jordan J and Schmidt M contributed equally.
+- Jordan J*, Schmidt M*, Senn W, & Petrovici MA (2020). Evolving to learn: discovering interpretable plasticity rules for spiking networks. arXiv preprint arXiv:2005.14149. *Jordan J and Schmidt M contributed equally.
 
    <img src="img/intro_microcircuit.svg" alt="Evolving to learn" style="width: 350px;"/>
 
@@ -19,7 +19,7 @@ title: Publications
 
    <img src="img/Schmidt2018_dyn.svg" alt="Multi-area model" style="width: 350px;"/>
    
-- van Albada SJ., Rowley AG., Senk J., Hopkins M., Schmidt M., Stokes AB., Lester DR., Diesmann M., Furber SB. (2018) Performance comparison of the digital neuromorphic hardware SpiNNaker and the neural network simulation software NEST for a full-scale cortical microcircuit model. _Frontiers in Neuroscience 12:291,_ [DOI:10.3389/fnins.2018.00291](https://www.frontiersin.org/articles/10.3389/fnins.2018.00291/full)
+- van Albada SJ, Rowley AG, Senk J, Hopkins M, Schmidt M, Stokes AB, Lester DR, Diesmann M, Furber SB. (2018) Performance comparison of the digital neuromorphic hardware SpiNNaker and the neural network simulation software NEST for a full-scale cortical microcircuit model. _Frontiers in Neuroscience 12:291,_ [DOI:10.3389/fnins.2018.00291](https://www.frontiersin.org/articles/10.3389/fnins.2018.00291/full)
 
    <img src="img/spinnaker.png" alt="Spinnaker-NEST comparison" style="width: 350px;"/>
    
