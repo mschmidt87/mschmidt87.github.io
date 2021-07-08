@@ -35,9 +35,9 @@ Another field is the even more threatening ecocrisis, i.e., the systematic destr
 Species extinction is part of this ecocrisis and has now assumed such dramatic proportions that scientists are talking about the sixth mass extinction in the history of the Earth (the fifth mass extinction was, for example, the extinction of the dinosaurs). The public likes to illustrate this biodiversity crisis using large mammals such as polar bears or orangutans. So the thought is obvious: What do I care about the polar bears at the North Pole or the orangutans on Borneo? And what impact will it have if a few polar bears become extinct?
 
 There are two misunderstandings here.
-First, animals at the top of food chains, such as polar bears, are essential to ecosystems. They control the population of their prey, whose abundance in turn has massive effects on the rest of the plant and animal world [fn:14]. For example, wild animals in Germany's forests were able to reproduce unrestrained because their natural enemy, the wolf, had long disappeared from Germany's forests. This leads to deer eating buds and shoots from trees, reducing forests to monocultures [fn:4]. The reintroduction of predators can therefore lead to more species-rich and thus more resilient ecosystems. A famous example is the introduction of the wolf into Yellowstone National Park in the United States [fn:5].
+First, animals at the top of food chains, such as polar bears, are essential to ecosystems. They control the population of their prey, whose abundance in turn has massive effects on the rest of the plant and animal world [fn:4]. For example, wild animals in Germany's forests were able to reproduce unrestrained because their natural enemy, the wolf, had long disappeared from Germany's forests. This leads to deer eating buds and shoots from trees, reducing forests to monocultures [fn:5]. The reintroduction of predators can therefore lead to more species-rich and thus more resilient ecosystems. A famous example is the introduction of the wolf into Yellowstone National Park in the United States [fn:6].
 
-Second, it is not only the large predators that are disappearing, but animals at all stages of the food chains that are often even more important to our ecosystems and thus to human survival. For example, a study by the Entymological Association of Krefeld in Germany found that more than 75 percent of the total mass of flying insects has disappeared in the German state of North Rhine-Westphalia over nearly three decades [fn:6]. These animals are of fundamental importance for our ecosystems, among other things as pollinators of plants, which enable the growth of fruits on many plants, and thereby production of food, in the first place. 
+Second, it is not only the large predators that are disappearing, but animals at all stages of the food chains that are often even more important to our ecosystems and thus to human survival. For example, a study by the Entymological Association of Krefeld in Germany found that more than 75 percent of the total mass of flying insects has disappeared in the German state of North Rhine-Westphalia over nearly three decades [fn:7]. These animals are of fundamental importance for our ecosystems, among other things as pollinators of plants, which enable the growth of fruits on many plants, and thereby production of food, in the first place. 
 
 But the response to these shocking news also often shows a lack of understanding of ecosystems: it is not enough to simply put bee boxes everywhere and try your hand at being an amateur beekeeper. The animals also need food, and that means plants. The general trend toward rock gardens e.g. in Germany, but especially the barrenness of agricultural land, prevents this.
 
@@ -58,7 +58,7 @@ If you follow the discourse in Germany on the environment and climate, it is str
 
 There is no point in oversimplifying this discussion (see above) or skipping it and instead arguing about whether the CO2 price should be 65 euros from 2023 or 66 euros from 2024. Such discussions must be held, of course. But they are unsuitable for convincing voters or highlighting the differences between political parties and only lead to confusion.
 
-On the other hand, the ongoing discussion about meat prices or vacation flights is also unfair framing that turns off many. It is a popular game to overemphasize the unpleasant consequences of environmental policies and put the positive consequences in the back. An example: ecological agriculture, which better integrates nature, uses less pesticides and creates habitat for insects, and thus makes the continuation of food production possible at all? To this, the German news magazine SPIEGEL can only think of the question: "Will a kilogram of beef soon cost 80 euros?" [fn:7].
+On the other hand, the ongoing discussion about meat prices or vacation flights is also unfair framing that turns off many. It is a popular game to overemphasize the unpleasant consequences of environmental policies and put the positive consequences in the back. An example: ecological agriculture, which better integrates nature, uses less pesticides and creates habitat for insects, and thus makes the continuation of food production possible at all? To this, the German news magazine SPIEGEL can only think of the question: "Will a kilogram of beef soon cost 80 euros?" [fn:8].
 
 Instead, we need a debate about what life in our countries should look like in 10, 20 or 50 years. Do we still want to preserve what little nature there is? Or do we want to continue to occupy more and more space with construction areas, highways and bypasses? Do we want to stick with the current way of doing things for as long as possible until it is no longer possible, or do we want to actively shape change? 
 
@@ -82,22 +82,22 @@ This global scale can be intimidating and paralyzing: What difference can I make
 </figure>
 
 
-Opponents of environmental protection like to exploit this paralysis to justify political stalemate. Their strategy is clever: in order to divert attention from their own failures, they try to pass on the pressure in two directions at once. On the one hand, they stress that climate change can only be averted at the global level. On the other hand, they emphasize the responsibility of the individual consumer. If only all consumers would finally eat organic meat, buy electric cars and separate their waste, the problem would be solved. The concept of the individual carbon footprint, which was invented by the oil industry to divert attention from its own systemic responsibility [fn:8] is a good example of this strategy.
+Opponents of environmental protection like to exploit this paralysis to justify political stalemate. Their strategy is clever: in order to divert attention from their own failures, they try to pass on the pressure in two directions at once. On the one hand, they stress that climate change can only be averted at the global level. On the other hand, they emphasize the responsibility of the individual consumer. If only all consumers would finally eat organic meat, buy electric cars and separate their waste, the problem would be solved. The concept of the individual carbon footprint, which was invented by the oil industry to divert attention from its own systemic responsibility [fn:9] is a good example of this strategy.
 
 As a result, the crisis is, paradoxically, being globalized and individualized at the same time. The recipient is left with the impression that political activism is not worthwhile, since the problem can only be addressed on a global political level. At the same time, they are given the personal responsibility to finally take a look at her own nose. This does not mean that individuals should not change their behavior, because every step is useful. But the crisis will not be solved by changing patterns of consumption. 
 
-Shifting the responsibility to the individual has yet another purpose. It prepares the usual "ad hominem" argument against environmental activists: if an activist is "caught" eating meat or boarding an airplane one day, environmental opponents defame him as bigoted and hypocritical. But it would be the task of politics to make environmentally friendly behavior easier. No one should be forced to become a martyr in order to consume sustainably [fn:15]. And one is also allowed to participate in social life as an activist.
+Shifting the responsibility to the individual has yet another purpose. It prepares the usual "ad hominem" argument against environmental activists: if an activist is "caught" eating meat or boarding an airplane one day, environmental opponents defame him as bigoted and hypocritical. But it would be the task of politics to make environmentally friendly behavior easier. No one should be forced to become a martyr in order to consume sustainably [fn:10]. And one is also allowed to participate in social life as an activist.
 
 But there is a way out of this dilemma, because action against the ecocrisis and for nature can and should take place on many levels.
 From individual behavior to local initiatives to political engagement in parties to influence state, federal or even European politics, we need to be active on all of these levels. However, in my opinion, the local level offers the best balance between personal influence (and effort) and benefits to environmental protection.
-In his book, philosopher Charles Eisenstein describes how local and regional action can bring about effective steps against the climate crisis [fn:10]. In doing so, he provides numerous examples of how the restoration of local ecosystems can at least mitigate, and often even reverse, the effects of global warming.
+In his book, philosopher Charles Eisenstein describes how local and regional action can bring about effective steps against the climate crisis [fn:11]. In doing so, he provides numerous examples of how the restoration of local ecosystems can at least mitigate, and often even reverse, the effects of global warming.
 
 Ecosystems such as wetlands (peatlands, mangrove forests, etc.) and forests are the most effective CO2 stores there are. When we talk about negative emissions, we need to bring back these landscapes. Germany in particular is a country that was once rich in peatlands. However, these were systematically drained in order to extract the peat and use the land for agriculture. The good news is that these landscapes can be renaturalized. Sometimes all that is needed is to remove the old drainage pipes.
 
 Such ecosystems are not only good at storing CO2, they also provide us with the most important substance we need to live: Water. Forests store moisture and evaporate it back out, leading to cloud formation and thus precipitation. Forests thus generate regional climate and protect entire landscapes and regions from drought. So we can do something very concrete to combat the increased risk of drought caused by climate change, and we can do it on our own doorstep. Incidentally, this also leads to lower temperatures, which is why tree planting in cities is an important means of preparing our cities for the hot future. Another aspect is the destruction of natural river landscapes. Rivers absorb precipitation and carry water to the sea. River straightening and concrete river beds accelerate this process, destroying local riparian landscapes where water can percolate and ultimately leaving less water on the land, contributing to drought.
 
-In extreme cases, this creates deserts, and indeed humans have contributed significantly to the formation of the Sahara [fn:11] and the arid landscapes in the Middle East [fn:12].
-The Great Green Wall Initiative [fn:13] builds on this knowledge and has set itself the goal of drawing a green ribbon across Africa, thus greening the desert once again.
+In extreme cases, this creates deserts, and indeed humans have contributed significantly to the formation of the Sahara [fn:12] and the arid landscapes in the Middle East [fn:13].
+The Great Green Wall Initiative [fn:14] builds on this knowledge and has set itself the goal of drawing a green ribbon across Africa, thus greening the desert once again.
 But we don't have to look to Africa: in Germany (and most likely in your country), too, ecological devastation with monocultural forest plantations instead of forests, straightened and concreted rivers, and drained bogs has caused drought to become more widespread. 
 
 So the answer to the paralysis caused by fixation on the global and individual scales is: local engagement pays off. Local initiatives that demand environmental protection on the ground and care for the preservation and renaturation of landscapes contribute to the fight against global warming and its consequences at least locally, often regionally and even globally through CO2 storage.
@@ -114,18 +114,33 @@ In this way, the transition from passive consumer to activist can succeed and we
 
 
 * Referenzen
+
+* Footnotes
+
 [fn:1] https://www.carbonbrief.org/state-of-the-climate-how-the-world-warmed-in-2019
+
 [fn:2] F. Kaspar, K. Friedrich, F. Imbery: 2019 global zweitwärmstes Jahr: Temperaturentwicklung in Deutschland im globalen Kontext, Bericht des Deutschen Wetterdienstes (PDF) Stand 28. Januar 2020, https://www.dwd.de/DE/leistungen/besondereereignisse/temperatur/20200128_vergleich_de_global.pdf?__blob=publicationFile&v=2
+
 [fn:3] https://www.klimareporter.de/erdsystem/wie-deutschland-sich-mit-dem-klimawandel-veraendern-wird
-[fn:4] https://www.spektrum.de/news/rehe-und-hirsche-schaden-dem-wald/1711988
-[fn:5] https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/
-[fn:6] https://www.boell.de/de/2020/01/08/insektensterben-deutschland-abwaerts-im-trend
-[fn:7] https://www.spiegel.de/wissenschaft/natur/zukunftskommission-landwirtschaft-kostet-ein-kilo-rindfleisch-bald-80-euro-a-a0634de3-934c-4bce-97b3-581c93362e32
-[fn:8] https://mashable.com/feature/carbon-footprint-pr-campaign-sham
-[fn:9] https://www.zeit.de/2019/29/klimaschutz-konsumverhalten-gewissen-aktivismus-oekologie-fliegen
-[fn:10] Charles Eisenstein, "Klima - eine neue Perspektive".
-[fn:11] Weisman, Alan (2008): »Africa after Us: What Effects Have Human Actions Had on the Sahara—The World’s Largest Nonpolar Desert?« in: The Globalist, 26. 01.
-[fn:12] Hughes, J. Donald (2014): Environmental Problems of the Greeks and Romans: Ecology in the Ancient Mediterranean. Johns Hopkins University Press, Baltimore
-[fn:13] https://www.greatgreenwall.org/about-great-green-wall
-[fn:14] This theory is called the "Green World Hypothesis". It tries to answer the question: why is wourld green, why don't all plants get eaten by herbivores? To this end, it postulates that the abundance of herbivores is controlled by carnivores at higher levels in the food chain. It has been confirmed in various experiments.
-[fn:15] An example from Japan: If one wants to live strictly vegetarian here, it is in principle impossible to go to a normal restaurant, because even vegetable dishes are made on the basis of fish broth and pure vegetarian dishes are extremely rare. Since social life here takes place almost exclusively in restaurants, this means, consistently pulled through, social isolation. This may be different in your country, but try to completely avoid unnecessary plastic packaging. Going to the supermarket becomes simply impossible.
+
+[fn:4] This theory is called the "Green World Hypothesis". It tries to answer the question: why is wourld green, why don't all plants get eaten by herbivores? To this end, it postulates that the abundance of herbivores is controlled by carnivores at higher levels in the food chain. It has been confirmed in various experiments.
+
+[fn:5] https://www.spektrum.de/news/rehe-und-hirsche-schaden-dem-wald/1711988
+
+[fn:6] https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/
+
+[fn:7] https://www.boell.de/de/2020/01/08/insektensterben-deutschland-abwaerts-im-trend
+
+[fn:8] https://www.spiegel.de/wissenschaft/natur/zukunftskommission-landwirtschaft-kostet-ein-kilo-rindfleisch-bald-80-euro-a-a0634de3-934c-4bce-97b3-581c93362e32
+
+[fn:9] https://mashable.com/feature/carbon-footprint-pr-campaign-sham
+
+[fn:10] An example from Japan: If one wants to live strictly vegetarian here, it is in principle impossible to go to a normal restaurant, because even vegetable dishes are made on the basis of fish broth and pure vegetarian dishes are extremely rare. Since social life here takes place almost exclusively in restaurants, this means, consistently pulled through, social isolation. This may be different in your country, but try to completely avoid unnecessary plastic packaging. Going to the supermarket becomes simply impossible.
+
+[fn:11] Charles Eisenstein, "Climate - a new story"
+
+[fn:12] Weisman, Alan (2008): »Africa after Us: What Effects Have Human Actions Had on the Sahara—The World’s Largest Nonpolar Desert?« in: The Globalist, 26. 01.
+
+[fn:13] Hughes, J. Donald (2014): Environmental Problems of the Greeks and Romans: Ecology in the Ancient Mediterranean. Johns Hopkins University Press, Baltimore
+
+[fn:14] https://www.greatgreenwall.org/about-great-green-wall
