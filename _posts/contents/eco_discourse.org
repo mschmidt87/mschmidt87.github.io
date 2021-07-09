@@ -1,9 +1,9 @@
 * Warum sind wir so passiv in der Ökokrise?
 
-Wenn ich mich mit mit meinen Freunden und Bekannten über die Öko- und Klimakrise unterhalte, stoße ich oft auf eine Einstellung, die, so scheint mir, viele teilen.
-Ja, man macht sich allgemein Sorgen über das Klima und die Umwelt. Man möchte auch gerne bewusster leben und etwas Gutes tun. So versucht man, weniger Fleisch zu essen, öfter mal Bioprodukte zu konsumieren und vielleicht sogar bewusst Strom zu sparen. 
+Wenn ich mich mit meinen Freunden und Bekannten über die Öko- und Klimakrise unterhalte, stoße ich oft auf eine Einstellung, die, so scheint mir, viele teilen.
+Ja, wir machen uns allgemein Sorgen über das Klima und die Umwelt. Wir möchten auch gerne bewusster leben und etwas Gutes tun. So versuchen wir, weniger Fleisch zu essen, öfter mal Bioprodukte zu konsumieren und vielleicht sogar bewusst Strom zu sparen. 
 Alles in allem jedoch wirkt die Klimakrise, noch vielmehr die übergeordnete Ökokrise, nicht allzu bedrohlich. Wir werden das über kurz oder lang schon lösen, mithilfe von technischen Innovationen und den richtigen Weichenstellungen, alles zu seiner Zeit. Haben wir nicht auch schon andere Krisen überstanden? Das Ozonloch? Das Waldsterben in den 80ern?
-Sicher, richtige Klimawandelleugner kenne ich eigentlich kaum persönlich. Und doch - zu einem richtigen Aktivismus können sich ebenfalls nur wenige aufraffen.
+Sicher, richtige Klimawandelleugner kenne ich eigentlich kaum persönlich. Und doch - zu einem richtigen Aktivismus können sich nur wenige aufraffen.
 
 Woran liegt das? Was sind die Gründe für diese entspannte, oder vielleicht fatalistische, Haltung?
 Ich glaube, dass es drei Gründe hierfür gibt, die allesamt im öffentlichen Diskurs wurzeln. In diesem Text möchte ich diese Gründe etwas näher erläutern.
@@ -11,10 +11,10 @@ Dieser Text beruht zu einem großen Teil, jedoch nicht ausschließlich, auf Disk
 
 ** Die Ökokrise wird unzureichend erklärt.
 Um die Auswirkungen der Klimakrise, ein Teil der umfassenden Ökokrise, zu erklären, werden im Wesentlichen zwei Größen benutzt, der Anstieg der globalen Durchschnittstemperatur und der durchschnittliche Anstieg des Meeresspiegels.
-So wird als allgemeines Ziel der Umweltbewegung immer wieder formuliert, unter anderem auch im Pariser Abkommen festgehalten, dass der Anstieg der globalen Durchschnittstemperatur möglichst unter 1.5 Grad, auf jeden Fall jedoch unter 2 Grad, gehalten werden soll.
-Desweiteren wird allgemein davor gewarnt, dass der Meeresspiegel in Folge des Klimawandels und des Anstiegs der Temperaturen bis 2100 um bis zu 1 Meter, wahrscheinlich sogar mehr, ansteigen könnte.
+So wird als allgemeines Ziel der Umweltbewegung immer wieder formuliert, u.a. auch im Pariser Abkommen festgehalten, dass der Anstieg der globalen Durchschnittstemperatur möglichst unter 1.5 Grad, auf jeden Fall jedoch unter 2 Grad, gehalten werden soll.
+Desweiteren wird davor gewarnt, dass der Meeresspiegel bis 2100 um bis zu 1 Meter, wahrscheinlich sogar mehr, ansteigen könnte.
 
-Diese Zahlen erfassen bei Weitem nicht die Auswirkungen des Klimwandels in ihrer ganzen Komplexität.
+Diese Zahlen erfassen jedoch bei weitem nicht die Auswirkungen des Klimwandels in ihrer ganzen Komplexität.
 Wer sich nicht eingehend mit dem Thema beschäftigt und stattdessen immer und immer wieder lediglich diese beiden Zahlen hört, der mag sich denken: Was soll die ganze Aufregung?
 2 Grad mehr in Deutschland bedeuten vielleicht etwas mehr Schwitzen im Sommer und weniger Schnee im Winter, aber leben nicht auch Menschen in Süditalien ein gutes Leben mit höheren Temperaturen als in Deutschland? Ein etwas höherer Meeresspiegel, dann erhöhen wir doch einfach die Deiche an Nord- und Ostsee und schon ist das Problem gelöst.
 
@@ -44,9 +44,9 @@ Ein weiteres Feld ist die noch bedrohlichere Ökokrise, d.h. die systematische Z
 Das Artensterben ist Teil dieser Ökokrise und hat mittlerweile so dramatische Ausmaße angenommen, dass Wissenschaftler vom sechsten Massensterben in der Erdgeschichte sprechen (das fünfte Massensterben war beispielsweise das Aussterben der Dinosaurier). In der Öffentlichkeit wird diese Biodiversitätskrise gerne anhand von großen Säugetieren wie Eisbären oder Orang-Utans veranschaulicht. Da liegt der Gedanke nahe: Was kümmern mich die Eisbären am Nordpol oder die Orang-Utans auf Borneo? Und was für Auswirkungen soll es schon haben, wenn die paar Eisbären aussterben?
 
 Hier liegen zwei Missverständnisse vor.
-Erstens sind Tiere der Spitze von Nahrungsketten, wie z.B. Eisbären, essentiell wichtig für Ökosysteme. Sie kontrollieren die Population ihrer Beutetiere, deren Vorkommen wiederum massive Auswirkungen auf die restliche Pflanzen- und Tierwelt hat [fn:4]. So konnten sich beispielsweise Wildtiere in Deutschlands Wäldern unbedrängt vermehren, da ihr natürlicher Feind, der Wolf, aus Deutschlands Wäldern lange Zeit verschwunden war. Dies führt dazu, dass Rehe oder Hirsche Knospen und Triebe von Bäumen fressen und so Wälder auf Monokulturen reduzieren [fn:5]. Die Wiedereinführung von Raubtieren kann deshalb zu mehr artenreicheren und damit widerstandsfähigeren Ökosystemen führen. Ein berühmtes Beispiel hierfür ist die Einführung des Wolfs in den Yellowstone National Park in den USA [fn:6].
+Erstens sind Tiere der Spitze von Nahrungsketten, wie z.B. Eisbären, essentiell wichtig für Ökosysteme. Sie kontrollieren die Population ihrer Beutetiere, deren Vorkommen wiederum massive Auswirkungen auf die restliche Pflanzen- und Tierwelt hat [fn:4]. So konnten sich beispielsweise Wildtiere in Deutschlands Wäldern unbedrängt vermehren, da ihr natürlicher Feind, der Wolf, aus Deutschlands Wäldern lange Zeit verschwunden war. Dies führt dazu, dass Rehe oder Hirsche Knospen und Triebe von Bäumen fressen und so Wälder auf Monokulturen reduzieren [fn:5]. Die Wiedereinführung von Raubtieren kann deshalb zu artenreicheren und damit widerstandsfähigeren Ökosystemen führen. Ein berühmtes Beispiel hierfür ist die Einführung des Wolfs in den Yellowstone National Park in den USA [fn:6].
 
-Zweitens verschwinden nicht nur die großen Raubtiere, sondern Tiere auf allen Stufen der Nahrungsketten, die häufig noch wichtiger für unsere Ökosystem und damit für das Überleben des Menschen sind. So fand eine Studie des Entymologischen Vereins Krefeld, dass in Nordrhein-Westfalen über fast drei Jahrzehnte hinweg mehr als 75 Prozent der Gesamtmasse an Fluginsekten verschwunden ist [fn:7]. Diese Tiere sind von fundamentaler Bedeutung für unsere Ökosysteme, unter anderem als Bestäuber von Pflanzen, die überhaupt das Wachstum von Früchten an vielen Pflanzen, und damit die Produktion von Nahrung, ermöglichen. 
+Zweitens verschwinden nicht nur die großen Raubtiere, sondern Tiere auf allen Stufen der Nahrungsketten, die häufig noch wichtiger für unsere Ökosysteme sind. So fand eine Studie des Entymologischen Vereins Krefeld, dass in Nordrhein-Westfalen über fast drei Jahrzehnte hinweg mehr als 75 Prozent der Gesamtmasse an Fluginsekten verschwunden ist [fn:7]. Diese Tiere sind von fundamentaler Bedeutung für unsere Ökosysteme, unter anderem als Bestäuber von Pflanzen, die überhaupt das Wachstum von Früchten an vielen Pflanzen, und damit die Produktion von Nahrung, ermöglichen. 
 
 Aber auch in der Reaktion auf diese schockierenden Nachrichten zeigt sich häufig ein mangelhaftes Verständnis von Ökosystemen: es genügt nicht, einfach überall Bienenkästen aufzustellen und sich als Hobbyimker zu versuchen. Die Tiere benötigen auch Nahrung und das bedeutet: Pflanzen. Der allgemeine Trend zu Steingärten in Deutschland, aber vor allem die Ödnis der landwirtschaftlichen Flächen in Deutschland verhindert dies.
 
@@ -55,7 +55,7 @@ Zusammenfassen lassen sich diese beiden Punkte damit, dass wir besser verstehen 
 ** Der polemische Diskurs (in Deutschland).
 
 
-Verfolgt man den Diskurs in Deutschland über Umwelt und Klima, fällt auf, dass es eigentlich nur zwei Gangarten gibt: Entweder wird auf polemische Art und Weise ausschließlich über mögliche negative Auswirkungen von umweltpolitischen Maßnahmen diskutiert oder man lässt in sehr kleinteiligen Diskussionen über Details einzelner Schritte aus. Es scheint keinen Mittelweg zu geben, dabei bräuchten wir genau das: wir brauchen eine ehrliche Debatte darüber, welche Auswirkungen die Klimakrise in Deutschland, in Europa und in der Welt hat und welche Risiken wir mit unsere aktuellen Art zu leben und zu wirtschaften, in Kauf nehmen.
+Verfolgt man den Diskurs in Deutschland über Umwelt und Klima, fällt auf, dass es eigentlich nur zwei Gangarten gibt: Entweder wird auf polemische Art und Weise ausschließlich über mögliche negative Auswirkungen von umweltpolitischen Maßnahmen diskutiert oder man lässt sich in sehr kleinteiligen Diskussionen über Details einzelner Schritte aus. Es scheint keinen Mittelweg zu geben, dabei bräuchten wir genau das: wir brauchen eine ehrliche Debatte darüber, welche Auswirkungen die Klimakrise in Deutschland, in Europa und in der Welt hat und welche Risiken wir mit unsere aktuellen Art zu leben und zu wirtschaften, in Kauf nehmen.
 
 <figure>
 <img src="/img/eco_attitude/Diskurs.svg">
@@ -65,13 +65,13 @@ Verfolgt man den Diskurs in Deutschland über Umwelt und Klima, fällt auf, dass
 </figure>
 
 
-Es bringt nichts, diese Diskussion zu stark zu vereinfachen (siehe oben) oder gleich zu überspringen und stattdessen gleich darum zu streiten, ob der CO2-Preis nun ab 2023 65 Euro oder doch erst ab 2024 66 Euro betragen soll. Solch Diskussionen müssen natürlich geführt werden. Aber um Wähler von sich zu überzeugen oder die Unterschiede zwischen politischen Parteien herauszustellen sind sie ungeeignet und führen lediglich zu Verwirrung und einer Abwendung vom Diskurs.
+Es bringt nichts, diese Diskussion zu stark zu vereinfachen (siehe oben) oder gleich zu überspringen und stattdessen gleich darum zu streiten, ob der CO2-Preis nun ab 2023 65 Euro oder doch erst ab 2024 66 Euro betragen soll. Solch Diskussionen müssen natürlich irgendwann geführt werden. Aber um Wähler von sich zu überzeugen oder die Unterschiede zwischen politischen Parteien herauszustellen, sind sie ungeeignet und führen lediglich zu Verwirrung und einer Abwendung vom Diskurs.
 
 Auf der anderen Seite ist auch die andauernde Diskussion um Fleischpreise oder Urlaubsflüge ein unfaires Framing, das viele abschreckt. Es ist ein beliebtes Spiel, die unangenehmen Folgen von Umweltpolitik überzubetonen und die positiven Folgen hinten anzustellen. Ein Beispiel: Ökologische Landwirtschaft, die die Natur besser mit einbezieht, weniger Pestizide benutzt und Lebensraum für Insekten schafft, und damit überhaupt das Fortbestehen von Nahrungsmittelproduktion möglich macht? Dazu fällt dem SPIEGEL nur die Frage ein: "Kostet ein Kilo Rindfleisch bald 80 Euro?" [fn:8].
 
 Stattdessen benötigen wir eine Debatte darüber, wie das Leben in Deutschland in 10, 20 oder 50 Jahren überhaupt aussehen soll. Wollen wir noch Wälder in Deutschland sehen? Wollen wir das bisschen Natur noch erhalten? Oder wollen wir weiterhin immer mehr Raum mit Baugebieten, Autobahnen und Umgehungsstraßen besetzen? Wollen wir so lange wie möglich am bisherigen Vorgehen festhalten, bis es gar nicht mehr geht, oder wollen wir den Wandel aktiv gestalten? 
 
-Davon ausgehend müssen wir diskutieren, wie diese Ziele erreicht werden sollen. Mit rein marktwirtschaftlichen Instrumenten wie dem Emissionshandel? Oder flankiert mit ordnungspolitischen Maßnahmen wie z.B. einem Verbot von Verbrennerfahrzeugen oder Kurzstreckenflügen? Wie können wir Umweltschutz und Sozialpolitik miteinander verbinden? Diese Fragen zu klären, ohne sich in ermüdende Detailfragen zu verbeißen oder die üblichen Plattitüden der Konservativen und Rechten ("Die Grünen sind eine Verbotspartei"), wäre äußerst wichtig.
+Davon ausgehend müssen wir diskutieren, wie diese Ziele erreicht werden sollen. Mit rein marktwirtschaftlichen Instrumenten wie dem Emissionshandel? Oder flankiert mit ordnungspolitischen Maßnahmen wie z.B. einem Verbot von Verbrennerfahrzeugen oder Kurzstreckenflügen? Wie können wir Umweltschutz und Sozialpolitik miteinander verbinden? Diese Fragen zu klären, ohne sich in ermüdende Detailfragen zu verbeißen oder die üblichen Plattitüden der Konservativen und Rechten ("Die Grünen sind eine Verbotspartei") wäre äußerst wichtig.
 
 Das sind die wichtigen Diskussionen, die zu führen wären und das sind auch die Differenzen entlang der Parteilinien in der Politik. Zugleich ist dies eine Ebene, auf der man auch ohne detailliertes Fachwissen an Diskussionen teilnehmen kann. So würden sich sicher mehr Menschen eingebunden und angesprochen fühlen.
 
@@ -91,16 +91,16 @@ Diese globale Skala kann einschüchtern und lähmen: Was kann ich als Einzelner 
 </figure>
 
 
-Diese Lähmung wird von Umweltschutzgegnern gerne ausgenutzt, um den Stillstand in der deutschen (und anderswo) Politik zu rechtfertigen. Ihre Masche ist raffiniert: um von den eigenen Versäumnissen abzulenken, versucht man, den Druck in gleich zwei Richtungen weiterzugeben. Zum Einen wird betont, dass der Klimawandel nur auf globaler Ebene abzuwenden ist. Zum Anderen wird die Verantwortung des Einzelnen als Konsument herausgestellt. Wenn doch nur alle Konsumenten endlich Bio-Fleisch essen, Elektroautos kaufen und den Müll trennen würden, dann wäre das Problem doch gelöst. Exemplarisch dafür steht das Konzept des individuellen CO2-Fußabdruck, das von der Ölindustrie erfunden wurde, um ihrer eigenen systemischen Verantwortung abzulenken [fn:9].
+Diese Lähmung wird von Umweltschutzgegnern gerne ausgenutzt, um den Stillstand in der deutschen (und anderswo) Politik zu rechtfertigen. Ihre Masche ist raffiniert: um von den eigenen Versäumnissen abzulenken, versucht man, den Druck in gleich zwei Richtungen weiterzugeben. Zum Einen wird betont, dass der Klimawandel nur auf globaler Ebene abzuwenden ist. Zum Anderen wird die Verantwortung des Einzelnen als Konsument herausgestellt. Wenn doch nur alle endlich Bio-Fleisch essen, Elektroautos kaufen und den Müll trennen würden, dann wäre das Problem doch gelöst. Exemplarisch dafür steht das Konzept des individuellen CO2-Fußabdruck, das von der Ölindustrie erfunden wurde, um von ihrer eigenen systemischen Verantwortung abzulenken [fn:9].
 
 So wird die Krise paradoxerweise zugleich globalisiert und individualisiert. Die Rezipientin bleibt zurück mit dem Eindruck, dass sich politischer Aktivismus nicht lohnt, da das Problem ja nur auf globaler politischer Ebene angegangen werden kann. Gleichzeitig bekommt sie die persönliche Verantwortung zugeschoben, sich doch endlich an die eigene Nase zu packen. Dass dies nicht funktionieren kann, wurde sehr schön in einem Artikel der ZEIT beschrieben [fn:10]. Das bedeutet nicht, dass die Einzelne nicht ihr Verhalten ändern sollte, denn jeder Schritt ist nützlich. Aber die Krise wird sich nicht durch veränderten Konsum lösen lassen. 
 
 Das Abschieben der Verantwortung auf die Einzelne hat noch einen anderen Zweck. Sie bereitet das übliche "ad hominem"-Argument gegen Umweltschutzaktivisten vor: wird ein Aktivist dabei "erwischt", wie er mal Fleisch isst oder ein Flugzeug besteigt, diffamieren ihn Umweltschutzgegner als bigott und heuchlerisch. Dabei wäre es gerade die Aufgabe der Politik, umweltschützendes Verhalten einfacher zu machen. Niemand sollte gezwungen sein, zum Märtyrer zu werden, um nachhaltig zu konsumieren [fn:11]. Und man darf auch als Aktivist am gesellschaftlichen Leben teilnehmen.
 
 Doch es gibt einen Ausweg aus diesem Dilemma, denn Handeln gegen die Ökokrise und für die Natur kann und sollte auf vielen Ebenen stattfinden.
-Vom individuellen Verhalten über lokale Initativen bis zu politischen Engagement in Parteien, um die Landes-, Bundes- oder sogar Europapolitik zu beeinflussen, wir müssen auf allen diesen Ebenen aktiv werden. Die lokale Ebene biete jedoch meiner Meinung nach das beste Verhältnis zwischen persönlichem Einfluss (und Aufwand) und Nutzen für den Umweltschutz.
-Der Philosoph Charles Eisenstein beschreibt in seinem Buch, wie lokales und regionales Handeln wirksame Schritte gegen die Klimakrise bewirken können [fn:12]. Dabei bringt er zahlreiche Beispiele, wie die Restauration von lokalen Ökosystemen die Folgen der globalen Erderhitzung mindestens abfedern, oft sogar umkehren, kann.
+Vom individuellen Verhalten über lokale Initativen bis zu politischen Engagement in Parteien, um die Landes-, Bundes- oder sogar Europapolitik zu beeinflussen, wir müssen auf allen diesen Ebenen aktiv werden. Die lokale Ebene bietet jedoch meiner Meinung nach das beste Verhältnis zwischen persönlichem Einfluss (und Aufwand) und Nutzen für den Umweltschutz.
 
+Der Philosoph Charles Eisenstein beschreibt in seinem Buch, wie lokales und regionales Handeln wirksame Schritte gegen die Klimakrise bewirken können [fn:12]. Dabei bringt er zahlreiche Beispiele, wie die Restauration von lokalen Ökosystemen die Folgen der globalen Erderhitzung mindestens abfedern, oft sogar umkehren, kann.
 Ökosysteme wie Feuchtgebiete (Moore, Mangrovenwälder, etc.) und Wälder sind die effektivsten CO2-Speicher, die es gibt. Wenn wir von negativen Emissionen sprechen, dann müssen wir diese Landschaften wieder zurückbringen. Gerade Deutschland ist ein Land, das einst reich an Mooren war. Diese wurden jedoch systematisch trockengelegt, um den Torf abzubauen und die Flächen landwirtschaftlich zu nutzen. Die gute Nachricht ist, dass diese Landschaften renaturiert werden können. Manchmal genügt es schon, die alten Drainage-Rohre zu entfernen.
 
 Solche Ökosysteme sind jedoch nicht nur gut darin, CO2 zu speichern, sie versorgen uns auch mit dem wichtigsten Stoff, den wir zum Leben brauchen: Wasser. Wälder speichern Feuchtigkeit und dünsten sie wieder aus, was zur Wolkenbildung und damit zu Niederschlag führt. Wälder erzeugen dadurch regionales Klima und schützen ganze Landschaften und Regionen vor Dürren. Wir können also ganz konkret etwas gegen die erhöhte Dürregefahr durch den Klimawandel tun und zwar vor der eigenen Haustür. Nebenbei gesagt führt dies auch zu niedrigeren Temperaturen, weshalb Baumpflanzungen in Städten ein wichtiges Mittel darstellen, unsere Städte auf die heiße Zukunft vorzubereiten. Ein weiterer Aspekt ist die Zerstörung natürlicher Flusslandschaften. Flüsse nehmen Niederschlag auf und führen das Wasser zum Meer. Flussbegradingungen und betonierte Flussbetten beschleunigen diesen Prozess, zerstören lokale Uferlandschaften, in denen Wasser versickern kann und führen so letztlich dazu, dass weniger Wasser auf dem Land verbleibt, was zur Trockenheit beiträgt.
@@ -109,7 +109,7 @@ Im Extremfall enstehen so Wüsten und in der Tat hat der Mensch beispielsweise z
 Die Great Green Wall Initiative [fn:15] nutzt dieses Wissen und hat sich zum Ziel gesetzt, ein grünes Band quer durch Afrika zu ziehen und so die Wüste wieder zu begrünen.
 Aber wir müssen nicht nach Afrika schauen: auch in Deutschland hat die ökologische Verwüstung mit monokulturellen Forstplantagen statt Wäldern, begradigten und betonierten Flüssen und trockengelegten Mooren dazu geführt, dass sich Trockenheit immer mehr ausbreitet. 
 
-Die Antwort auf die Lähmung durch die Fixierung auf die globale und individuelle Skala lautet also: lokales Engagement lohnt sich. Lokale Initiativen, die Umweltschutz vor Ort fordern und sich um die Erhaltung und Renaturierung der Landschaften kümmern tragen mindestens lokal, häufig auch regional und durch CO2-Speicherung sogar global zum Kampf gegen die Erderhitzung und ihre Folgen bei.
+Die Antwort auf die Lähmung durch die Fixierung auf die globale und individuelle Skala lautet also: lokales Engagement lohnt sich. Lokale Initiativen, die Umweltschutz vor Ort fordern und sich um die Erhaltung und Renaturierung der Landschaften kümmern, tragen mindestens lokal, häufig auch regional und durch CO2-Speicherung sogar global, zum Kampf gegen die Erderhitzung und ihre Folgen bei.
 
 * Fazit
 
@@ -120,8 +120,6 @@ Und schließlich müssen wir uns aus der Lähmung befreien, die uns das globale 
 So kann der Übergang vom passiven Konsumenten zum Aktivisten gelingen und wir können vom Lamentieren und passiven Klagen ins Machen kommen. Denn das ist bitter nötig, um unsere Zukunft zu bewahren.
 
 * Referenzen
-
-* Footnotes
 
 [fn:1] https://www.carbonbrief.org/state-of-the-climate-how-the-world-warmed-in-2019
 
@@ -143,7 +141,7 @@ So kann der Übergang vom passiven Konsumenten zum Aktivisten gelingen und wir k
 
 [fn:10] https://www.zeit.de/2019/29/klimaschutz-konsumverhalten-gewissen-aktivismus-oekologie-fliegen
 
-[fn:11] Ein Beispiel aus Japan: Will man hier strikt vegetarisch leben, ist es im Prinzip unmöglich, in ein normales Restaurant zu gehen, da selbst Gemüsegerichte auf Basis von Fischbrühe hergestellt wird. Da das soziale Leben hier sich fast ausschließlich in Restaurants abspielt, bedeutet das, konsequent durchgezogen, die soziale Isolation. Das mag in Deutschland anders sein, aber versucht mal, komplett auf unnötige Plastikverpackungen zu verzichten. Der Supermarktbesuch wird schlicht unmöglich.
+[fn:11] Ein Beispiel aus Japan: Will man hier strikt vegetarisch leben, ist es im Prinzip unmöglich, in ein normales Restaurant zu gehen, da selbst Gemüsegerichte auf Basis von Fischbrühe hergestellt wird. Da das soziale Leben hier sich fast ausschließlich in Restaurants abspielt, bedeutet das, konsequent durchgezogen, die soziale Isolation. Das mag in Deutschland anders sein, aber versucht mal, komplett auf unnötige Plastikverpackungen zu verzichten. Der Supermarktbesuch wird schlicht unmöglich. Oder ohne Auto im ländlichen Deutschland zu wohnen und nur mit ÖPNV herumzukommen.
 
 [fn:12] Charles Eisenstein, "Klima - eine neue Perspektive".
 
