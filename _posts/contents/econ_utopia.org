@@ -1,0 +1,108 @@
+* Einleitung
+In der Ökokrise, in der wir uns befinden, liegt es nahe, sich über die nötigen Diskussionen um den Klima- und Umweltschutz und seinen Einzelmaßnahmen, auch an die Systemfrage zu wagen.
+Wie konnte es soweit kommen, dass wir heute in einer Welt leben, in der wir und unser wirtschaftliches Handeln die Natur und seine Ökosysteme derart zu zerstören?
+Ist diese Situation lediglich ein notwendiger Zwischenschritt in der Entwicklung unserer Zivilisation, den wir überwinden können, indem wir an einzelnen Stellschrauben des Systems, beispielsweise unserer Energieerzeugung, drehen?
+Oder müssen wir unsere Art zu wirtschaften, ja unsere Art zu leben, grundsätzlich überdenken und womöglich über den Haufen werfen? 
+Und was wäre eine Utopie für eine Gesellschaft und Wirtschaft, in der wir besser und ökologischer leben könnten?
+
+Diesen Fragen gehen heutzutage viele Bücher nach und zwei von diesen möchte ich heute kurz diskutieren und vergleichen.
+Da wäre zum Einen "Sacred Economics" von Charles Eisenstein [fn:1], einem amerikanischen Philosophen, den ich auch bereits in meinem ersten Blogpost (https://mschmidt87.github.io/2021/06/22/climate_ideology.html) zitiert hatte. 
+Eisenstein geht in seinem Buch, das kurz nach der Finanzkrise vor 10 Jahren veröffentlich wurde, der Frage nach, was der Zusammenhang zwischen unserem heutigen Geldsystem und den immanenten Problemen, mit denen wir heute noch mehr als vor 10 Jahren konfrontiert werden, ist und wie eine bessere Utopie aussähe.
+
+Einen weniger grundsätzlichen Ansatz verfolgt "Marktwirtschaft reparieren" von Andreas Siemoneit and Oliver Richters. 
+Die beiden Autoren fragen sich, wie wir unsere Wirtschaft so verändern, dass sie dem Ideal einer vollkommenen Martkwirtschaft näher kommt, und damit gleichzeitig unsere Umwelt- und Gerechtigkeitsprobleme lösen.
+
+Bei der Lektüre dieser Bücher habe ich durchaus einige Unterschiede, aber auch interessante Parallelen, entdeckt, auf die ich im Weiteren eingehen werde.
+
+
+- zwei Bücher, die die Frage stellen: Wie können wir eine gerechtere und ökologischere Wirtschaft erreichen?
+- Sacred Economics: ausgehend von den grundlegenden Ideologien, auf denen unsere Zivilisation aufbaut, was ist die Rolle von Geld?
+  - Story of Self
+  - Story of Ascent
+  - Geld als Mediator, das einerseits die wirtschaftliche Interaktion von weit entfernten Agenten ermöglicht, und andererseits die Entfremdung, Vereinzelung und die Naturzerstörung der modernen Gesellschaften befeuert
+- Marktwirtschaft reparieren: setzt etwas höher an und fragt: was ist das grundlegene Prinzip auf das sich unsere Gesellschaft einigen kann? Die Leistungsgerechtigkeit.
+  - Leistungsgerechtigkeit als Fixstern und leistungslose Einkommen (ökonomischer Slang: Renten) als fundamentale Verletzung desselbigen
+  - vier Kernthemen, die sich auf die Leistungsgerechtigkeit und ihre Verletzung durch leistungslose Einkommen beziehen: Geld, Boden, Vermögen und Wachstumszwang
+
+* Sacred Economics
+Der Ausgangspunkt der Überlegungen Eisensteins bildet die These, dass unsere Zivilisationen auf zwei Narrativen aufbaut, der "Story of Self" und der "Story of Ascent".
+Kurz zusammengefasst lautet unsere "Story of Self", dass der Mensch ein individualistisches Wesen ist, dass sich frei entfalten soll.
+"Frei" bedeutet, in Eisensteins Interpretation, vor alle, frei von der Natur und frei von sozialen Bindungen.
+Das bedeutet nicht, dass wir keine sozialen Bindungen eingehen sollten. 
+Es bedeutet vielmehr, dass diese sozialen Bingungen unsere wirtschaftlichen Aktivitäten und persönlichen Entscheidungen möglichst wenig beeinflussen sollten.
+Die "Story of Ascent" wiederum besagt, dass sich die Menschheit im Laufe der Geschichte zu immer höhreren Entwicklungsstufen aufschwingt.
+Befeuert durch technischen Fortschritt und gesellschaftliche Veränderungen sind wir in der Lage, uns zunehmend von natürlichen Zwängen zu befreien und dadurch ein immer besseres Leben zu führen.
+
+Eisenstein kritisiert diese Ideologie in seinem Buch scharf.
+Nach seiner Auffassung hat sie dazu geführt, dass wir heute in individualistischen Gesellschaft leben, die uns zu einsamen Wesen macht, deren Leben sich in sinnlosen Jobs um die Vermehrung monetären Wohlstands drehen.
+Doch was hat das nun mit der Ökokrise zu tun? 
+Und welche Rolle spielt das Geld, Eisensteins zentrales Motiv in dem Buch, in dieser Entwicklung?
+
+Zunächst wollen wir kurz klären, was Geld überhaupt ist und wofür es gut ist.
+Häufig wird Geld als Weiterentwicklung einer ursprünglichen Tauschwirtschaft beschrieben: statt direkt Ware A gegen Ware B zu tauschen, werden Waren zunächst in Geld umgewandelt, mit dem man sich dann beliebige andere Waren kaufen kann.
+Dass sich Geld historisch so entwickelt hat, kann jedoch bezweifelt werden und es gibt verschiedene andere Theorien, deren Diskussion den Rahmen hier sprengen würde.
+Was wir jedoch festhalten können ist folgendes:
+- Geld hat in unserer heutigen Gesellschaft zwei Hauptfunktionen: den Austausch von Werten und die Aufbewahrung von Wert. Geld erleichtert den Austausch von Werten, insbesondere zwischen weit entfernten Handelspartnern, indem man jegliche Waren zunächst in Geld umwandeln kann, um es dann später wieder in andere Waren zu transformieren. Desweiteren dient Geld auch der Aufbewahrung von Wert: indem man vergängliche Dinge in Geld umtauscht, kann man den Wert erhalten (das Thema der Inflation hier einmal ausgeklammert.
+- Wie wird Geld erzeugt? In unserem heutigen Geldsystem gibt es keine Deckung des Geldes durch reale Güter wie z.B. Gold. Stattdessen wird Geld buchstäblich aus dem Nichts erzeugt und zwar sowohl durch Zentralbanken (Zentralbankgeld) als auch Geschäftsbanken (Giralgeld). Es gibt also unterschiedliche Arten von Geld: Während bei Zentralbankgeld die Zentralbank einer Währung garantiert, dass das Geld (in digitaler Form oder als Bargeld) als Zahlungsmittel akzeptiert wird, ist Giralgeld nichts weiter als eine Schuld der Geschäftsbank gegenüber dem Geldbesitzer, z.B. dem Inhaber des Girokontos. Das Geld ist lediglich durch Zahlungsversprechen gedeckt, was letztlich bedeutet, dass unser Geldsystem auf Vertrauen aufbaut, Vertrauen in die Zentralbank oder Geschäftsbank [fn:2]. Letztlich ist dies ein Versprechen, dass man auch in Zukunft noch etwas mit dem Geld anfangen kann, dass es also auch zukünftig noch Waren und Dienstleistungen geben wird, die man kaufen kann. In anderen Worten: unser Geld ist durch das Vertrauen in Wirtschaftswachstum gedeckt.
+- Geld wird mit Zinsen verliehen: ein Kreditnehmer überzeugt eine Kreditgeberin (z.B. eine Bank), ihm Geld zu leihen, dass er Zukunft mit Zinsen zurückzahlen muss. Diese Idee, dass man Geld investieren kann, dass einem nicht gehört und dass man sich nicht vorher verdient haben muss, ermöglichte überhaupt erst das Wirtschaftswachstum, dass die Welt in den letzten 4 Jahrhunderten erlebte [fn:3]. 
+
+Geld ist eine geheimnisvolle Erfindung, die die wirtschaftliche Entwicklung der Menschheit ermöglicht hat und dadurch selbstverständlich sehr positive Eigenschaften mit sich bringt.
+Sie hat aber auch negative Seiten und in "Sacred Economics" betont Charles Eisenstein genau diese negativen Eigenschaften. 
+Zunächst beschreibt er die ursprünglichen Gesellschaftsformen, in denen Menschen zusammenlebten, als Geschenk-Ökonomien ("gift economy"). 
+Menschen machten sich gegenseitig Geschenke in Form von Lebensmitteln, Gebrauchsgegenständen oder auch dekorativen Dingen.
+Diese Geschenke lösten wiederum Gegengeschenke aus und so funktionierte der wirtschaftliche Austausch und die Versorung im alltäglichen Leben im Wesentlichen über Geschenke: Ich schenke Dir drei Kürbisse von meinem Feld und bekomme als Gegengeschenk (unmittelbar oder zu einem späteren Zeitpunkt) 1 Kilogramm Tomaten. 
+Diese Geschenknetzwerke können durchaus komplexe Gestalt annehmen und sich über viele Personen erstrecken. 
+
+Im heutigen System sieht er vier Hauptkritikpunkte:
+- Geld ermöglicht den Handel zwischen weit entfernten und sich fremden Personen. Dies hat positive Auswirkungen, da es den Wirtschaftsraum enorm erweitert, aber auch negative Folgen: Wenn ich nicht mehr wirtschaftlich auf meine Nachbarn angewiesen bin, erodieren soziale Beziehungen in meiner näheren Umgebung, denn diese Beziehungen beruhen ganz wesentlich auf dem Austausch von Geschenken (Waren). Diese Folge kann wahrscheinlich jeder, der in einer Großstadt lebt und eventuell noch nicht einmal seine direkten Nachbarn persönlich kennt, nachvollziehen.
+- Geld ist ein Gleichmacher: Wenn ich alles auf der Welt in Geld umrechnen kann, wird alles am Ende äquivalent. Wenn ich einen See für X Euros kaufen kann und für das gleiche Geld ein teures Auto, dann sind diese beiden Dinge gleich viel wert. Ein See mit seinen Lebewesen, seiner einzigartigen Ökologie und seinen positiven Auswirkungen hat den gleichen Wert wie eine Maschine, die zu Hunderttausenden hergestellt wird? Von der Perspektive des Geldes her schon. Durch diese Eigenschaft ermöglicht Geld die Naturzerstörung, die wir heute beobachten und befeuert damit die Ökokrise.
+- Eisenstein beschreibt den Kapitalismus als einen Prozess, der sich immer Gemeingüter einverleibt und in die Marktwirtschaft integriert. Ob es um Dienstleistungen wie Pflege von Kindern und Alten oder Haareschneiden oder um Waren wie Wasser: All Diese Dinge waren einst nicht Teil der monetären Wirtschaft, wurden jedoch schrittweise in die Wirtschaft integriert [fn:4]. Noch vor 50 Jahren war es üblich, dass ältere Menschen von ihren Kindern zuhause gepflegt wurde, heute werden diese Dienstleistungen von Pflegeheimen übernommen und sind damit Teil der Wirtschaft. Dies wird ermöglicht durch das Geld, dass diesen Dingen einen Preis zuweist und sie damit überhaupt handelbar macht.
+- Das Konzept des Zinses führt laut Eisenstein zu einem Wachstumszwang für Unternehmen und damit für die gesamte Wirtschaft. Dadurch, dass ich als Unternehmer eine höhere Summe zurückzahlen muss, als ich mir ursprünglich geliehen hatte, bin ich gezwungen, zu wachsen, das heißt, einen immer höheren Gewinn (und damit normalerweise auch einen höheren Umsatz) zu machen. Dieser Wachstumszwang ist problematisch, da er (zumindest bisher) zu höherem Ressourcenverbrauch und damit zu Naturzerstörung führt.
+
+
+
+Ausgangspunkt: Ideologie der "Story of self" und "Story of Ascent":
+- "Story of self": individualistisches Menschenbild, der Mensch ist frei von Natur und sozialen Bindungen und soll sich frei entfalten können
+- "Story of Ascent": die Menschheit strebt im Laufe der Geschichte zu immer höheren Entwicklungsstufen, befeuert durch technische Entwicklung, sie befreit sich immer mehr von natürlichen Zwängen (Rohstoffknappheit, Krankheiten, etc.) 
+Diese beiden Geschichten manifestieren sich in der Entwicklungen des modernen Geldes:
+- modernes Geld führt uns weg von ursprünglichen GEsellschaften, in denen Tausch und Geschenke eine große Rolle spielten, die sich in kleinen Gemeinschaften abspielten, denn es erlaubt den wirtschaftlichen Austausch weit entfernter, fremder Menschen
+- es entfremdet uns auch von der Natur, denn alles wird zu Geld und dadurch wird alles äquivalent. Wenn ich einen See für X Euros kaufen kann und für das gleiche Geld ein teures Auto, dann sind beide Dinge gleich viel wert
+- der moderne Kapitalismus als ein Prozess, der sich immer mehr Commons einverleibt und alles zu Geld macht (Landnahme-These)
+- durch die Zinsen gibt es einen Wachstumszwang für Unternehmen, der zur ökologischen Zerstörung beiträgt.
+- durch die Möglichkeit, mit der ganzen Welt zu handeln, werden lokale Wertschöpfungsketten zerstört und die Gesellschaft vereinzelt und verarmt sozial.
+Wenn wir also unsere modernen gesellschaftlichen Probleme lösen wollen, müssen wir unser Geldsystem ändern.
+- Statt das Geld wie bisher mit Wirtschaftswachstum zu decken, sollten wir es mit öffentlichen Gütern wie der Natur decken. Dies hätte zwei Effekte: Deckelung des Ressourcenverbrauchs und Anreize, diese öffentlichen Güter zu erhalten oder sogar zu vermehren. Scheint in der Praxis sehr schwer bis kaum durchführbar.
+- Um lokale Wertschöpfungsketten zu stärken, sollen lokale Währungen eingeführt werden.
+- Um den Wachstumszwang zu beheben, sollen Negativzinsen eingeführt werden.
+* Marktwirtschaft reparieren
+- "Leistungs muss sich wieder lohnen.", dieser Klassiker der konservativ-marktliberalen Kräfte in Deutschland (Original von Kohl 1982) wird von O. Richters und ... gewissermaßen verwendet, um ihren Ansatz zu begründen und aufzubauen --> Leistungsgerechtigkeit als zentraler Fixstern unserer Marktwirtschaft und leistungslose Einkommen als prinzipielle Verletzungs dieses Prinzips (siehe auch Mazzucato)
+- Leistungslose Einkommen Definition
+- Basis: Ordoliberalismus nach Walter Eucken
+vier Kernthemen, bei denen es zu leistungslosen Einkommen kommt mit mehr oder weniger konkreten Vorschlägen zur "Trockenlegung" dieser Einkommen
+- Ressourcenrenten
+- Bodenrenten
+- Renten aus Vermögensakkumulation
+
+- Geldsystem
+
+
+* Gemeinsamkeiten und Unterschiede
+Unterschiede: 
+- Sacred Economics mit einer sehr pessimistischen Haltung gegenüber unserem modernen Lebensstil
+- Marktwirtschaft reparieren mit einer optimistischen Haltung gegenüber Marktwirtschaft, aber mit Kritik gegenüber unserer Form des Kapitalismus
+Detaillierter Vergleich
+- Wachstumszwang, Degrowth, grünes Wachstum, Ressourvenverbrauch
+- Bodenrenten und Eigentum
+- Geldsystem
+
+* Fazit
+
+* Footnotes
+
+[fn:4] Dieser Prozess wird auch als "Landnahme-Theorie des Kapitalismus" bezeichnet, siehe zum Beispiel Episode 29 des "Wohlstand für Alle"-Podcasts (https://wohlstandfueralle.podigee.io/29-neue-episode) oder Klaus Dörre, "Die neue Landnahme. Dynamiken und Grenzen des Finanzmarktkapitalismus."
+
+[fn:3] Siehe auch Yuval Noah Harari, "Eine kurze Geschichte der Menschheit", für eine sehr plastische Darstellung dieser Revolution in Kapitel 16 "Die Religion des Kapitalismus".
+
+[fn:2] Es ist also mitnichten so, dass Geschäftsbanken das Guthaben der Kontoinhaber bei der Bank an Kreditnehmer verleihen, wie viele denken. Stattdessen wird Geld aus dem Nichts erzeugt, um es dann zu verleihen. Gesetzlich sind Geschäftsbanken zwar dazu verpflichtet, eine gewisse Eigenkapitalquote zu besitzen. Dies liegt jedoch bei weit weniger als 100 %.
+
+[fn:1] 
