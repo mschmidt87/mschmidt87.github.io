@@ -52,12 +52,42 @@ Zunächst beschreibt er die ursprünglichen Gesellschaftsformen, in denen Mensch
 Menschen machten sich gegenseitig Geschenke in Form von Lebensmitteln, Gebrauchsgegenständen oder auch dekorativen Dingen.
 Diese Geschenke lösten wiederum Gegengeschenke aus und so funktionierte der wirtschaftliche Austausch und die Versorung im alltäglichen Leben im Wesentlichen über Geschenke: Ich schenke Dir drei Kürbisse von meinem Feld und bekomme als Gegengeschenk (unmittelbar oder zu einem späteren Zeitpunkt) 1 Kilogramm Tomaten. 
 Diese Geschenknetzwerke können durchaus komplexe Gestalt annehmen und sich über viele Personen erstrecken. 
+Derartige Gesellschaftsformen existieren heute jedoch nur noch an wenigen Orten auf der Welt; im Rest wurden sie abgelöst durch die moderne Zivilisation, in der der Handel über Geld die dominante 
+Wirtschaftsform darstellt.
 
 Im heutigen System sieht er vier Hauptkritikpunkte:
 - Geld ermöglicht den Handel zwischen weit entfernten und sich fremden Personen. Dies hat positive Auswirkungen, da es den Wirtschaftsraum enorm erweitert, aber auch negative Folgen: Wenn ich nicht mehr wirtschaftlich auf meine Nachbarn angewiesen bin, erodieren soziale Beziehungen in meiner näheren Umgebung, denn diese Beziehungen beruhen ganz wesentlich auf dem Austausch von Geschenken (Waren). Diese Folge kann wahrscheinlich jeder, der in einer Großstadt lebt und eventuell noch nicht einmal seine direkten Nachbarn persönlich kennt, nachvollziehen.
 - Geld ist ein Gleichmacher: Wenn ich alles auf der Welt in Geld umrechnen kann, wird alles am Ende äquivalent. Wenn ich einen See für X Euros kaufen kann und für das gleiche Geld ein teures Auto, dann sind diese beiden Dinge gleich viel wert. Ein See mit seinen Lebewesen, seiner einzigartigen Ökologie und seinen positiven Auswirkungen hat den gleichen Wert wie eine Maschine, die zu Hunderttausenden hergestellt wird? Von der Perspektive des Geldes her schon. Durch diese Eigenschaft ermöglicht Geld die Naturzerstörung, die wir heute beobachten und befeuert damit die Ökokrise.
-- Eisenstein beschreibt den Kapitalismus als einen Prozess, der sich immer Gemeingüter einverleibt und in die Marktwirtschaft integriert. Ob es um Dienstleistungen wie Pflege von Kindern und Alten oder Haareschneiden oder um Waren wie Wasser: All Diese Dinge waren einst nicht Teil der monetären Wirtschaft, wurden jedoch schrittweise in die Wirtschaft integriert [fn:4]. Noch vor 50 Jahren war es üblich, dass ältere Menschen von ihren Kindern zuhause gepflegt wurde, heute werden diese Dienstleistungen von Pflegeheimen übernommen und sind damit Teil der Wirtschaft. Dies wird ermöglicht durch das Geld, dass diesen Dingen einen Preis zuweist und sie damit überhaupt handelbar macht.
+- Eisenstein beschreibt den Kapitalismus als einen Prozess, der sich immer Gemeingüter einverleibt und in die Marktwirtschaft integriert. Ob es um Dienstleistungen wie Pflege von Kindern und Alten oder Haareschneiden oder um Waren wie Wasser: All Diese Dinge waren einst nicht Teil der monetären Wirtschaft, wurden jedoch schrittweise in die Wirtschaft integriert [fn:4]. Noch vor 50 Jahren war es üblich, dass ältere Menschen von ihren Kindern zuhause gepflegt wurde, heute werden diese Dienstleistungen von Pflegeheimen übernommen und sind damit Teil der Wirtschaft. Dies wird ermöglicht durch das Geld, dass diesen Dingen einen Preis zuweist und sie damit überhaupt handelbar macht. Wichtig ist hierbei, dass sich sein Verständnis öffentlicher Güter auch auf kulturelle Güter wie Musik, Kunst, und Literatur erstreckt.
 - Das Konzept des Zinses führt laut Eisenstein zu einem Wachstumszwang für Unternehmen und damit für die gesamte Wirtschaft. Dadurch, dass ich als Unternehmer eine höhere Summe zurückzahlen muss, als ich mir ursprünglich geliehen hatte, bin ich gezwungen, zu wachsen, das heißt, einen immer höheren Gewinn (und damit normalerweise auch einen höheren Umsatz) zu machen. Dieser Wachstumszwang ist problematisch, da er (zumindest bisher) zu höherem Ressourcenverbrauch und damit zu Naturzerstörung führt.
+
+So valide diese Kritik in einzelnen Beispielen auch ist, meiner Meinung nach übertreibt Eisenstein an vielen Stellen, denn er zeichnet ein allzu düsteres Bild unserer heutigen Gesellschaft.
+Ja, die Ausbeutung öffentlicher Güter wie das Trinkwasser ist sicherlich kritikwürdig.
+Und eine gewisse Vereinzelung und soziale Isolation in modernen Gesellschaft besonders in Großstädten findet definitiv statt.
+Aber wollen wir wirklich zurück zu einem dörflichen Leben in kleinen sozialen Gemeinschaften, in denen Menschen auf ihre soziale Beziehungen buchstäblich zum Leben angewiesen sind?
+Hat die moderne Gesellschaft gerade durch zunehmende Anonymisierung und die Ausdehnung des persönlichen Wirkradius auf weit entfernte, sogar globale, Kreise auch zu einer beispiellosen individuellen Befreiung geführt und die zunehmenden Rechte für einst isolierte Gruppe wie Homosexuelle, Behinderte, und Frauen erst ermöglicht?
+Die Sehnsucht nach einem ursprünglicheren Leben sozusagen "back to the roots" mutet hier oft eigentümlich an und man fragt sich, ob Eisenstein hier nicht das Kind mit dem Bade ausschüttet.
+Er betont zwar häufig, dass er mitnichten auf die technischen Fortschritte der letzten Jahrhunderte verzichten will. 
+Und doch schimmer immer wieder auch eine gewisse Technikfeindlichkeit durch.
+Übrigens steht er damit im großen Feld der "Degrowth"-Bewegung beileibe nicht alleine da, denn viele Wachstumskritiker verfolgen ähnliche Gedanken [fn:5].
+
+Aber was möchte Eisenstein nun tun, um die von ihm ausgeführten Missstände zu beheben?
+Für ihn dreht sich alles ums Geld und folglich muss auch in erster Linie unser Geldsystem neu gedacht werden.
+Ihm geht es um drei hauptsächliche Punkte:
+- Statt das Geld wie bisher mit Wirtschaftswachstum zu decken, sollten wir es mit öffentlichen Gütern wie der Natur oder kulturellen Gütern decken. Zunächst wären nur noch öffentliche Stellen wie beispielsweise Zentralbanken in der Lage, Geld auszugeben. Geschäftsbanken hätten keine Möglichkeit mehr, selbst Geld zu schöpfen. Diese Idee wird im Allgemeinen als Vollgeld bezeichnet und wird uns weiter unten noch einmal begegnen. Wie die Kopplung an öffentliche Güter genau funktionieren soll, st aus seinen Ausführungen nicht klar ersichtlich. Im Prinzip gibt die Regierung (siehe dritter Punkt unten) Geld aus, in dem sie Nutzung öffentlicher Güter wie Trinkwasser oder fruchtbaren Boden begrenzt und die Nutzungsrechte an Unternehmen verkauft. Dies soll drei Effekte haben: durch die Deckelung der Ressourcen wird der Ressourcenverbrauch strikt kontrolliert, was den Übergang zu einer Circular Economy ebnen soll und die Kosten der Ressourcennutzung internalisiert. Dies ist im Prinzip sehr nah dran am bereits bestehenden CO2-Emissionshandel in der EU, nur dass dieses Prinzip auf alle öffentlichen Güter ausgedehnt werden soll. Als zweiter Effekt spekuliert Eisenstein, dass es durch die Kopplung des Geldes an die Ressourcen einen Anreiz gibt, diese Ressourcen zu vermehren. Ähnlich wie beim Goldstandard, bei dem das Geld an Gold gekoppelt war und dadurch ein großer Anreiz bestand, Gold zu fördern, um die Geldmenge zu erhöhen, wäre dies jetzt für natürliche Ressourcen wie verfügbares Trinkwasser oder fruchtbare Böden der Fall. Drittens würde dieses Geldsystems eine Transformation des Steuersystems weg von der Besteuerung von Arbeit (durch z.B. Einkommenssteuer) zu einer Besteuerung von Ressourvenverbrauch bedeuten. [fn:6]
+- Der Wachstumszwang in der Wirtschaft soll durch negative Zinsen abgeschafft werden. Statt also bei Krediten oder Staatsanleihen positive Zinsen zu zahlen, sollen negative Zinsen fällig werden. Das bedeutet nichts anders, als dass jegliches Geld eine Art Ablaufdatum erhält. Es verliert also ein Stück weit die Fähigkeit, Wert zu speichern. Dadurch soll es attraktiver werden, das Geld in der Realwirtschaft zu investieren, denn reale Güter, die zwangsläufig an Wert verlieren, würden, anders als bisher, nicht mehr einen Nachteil gegenüber Geld haben.
+- Um lokale Wertschöpfungsketten zu stärken, soll es lokale Währungen geben. Anstatt also nur nationale, oder sogar supra-nationale, Währungen zu haben, soll es lokalen und regionalen Regierungen ermöglicht werden, lokale Währungen einzuführen. Der Effekt ist klar: Dadurch, dass eine lokale Währung nur als Zahlungsmittel in der Region angenommen wird, sind die Besitzer dieses Geldes gezwungen, es in der Region auszugeben. Dadurch werden lokale Wertschöpfungsketten bevorteilt.
+
+Eisenstein sieht den Übergang zu solch einem Geldsystem als einen logischen Schritt in der Menschheitsgeschichte an. 
+Ähnlich einem individuellen Menschen, der in der Kindheit und Jugend starkes Wachstum erfährt, dann aber als Erwachsener nicht mehr wächst, sondern sich nur noch entwickelt, soll die Menschheit den Schritt von einem Wachstumssystem zu einem "stable state" machen.
+Man kann zu dieser Metaphorik stehen, wie man möchte, ich denke, dass Eisenstein einige valide Punkte anführt, an anderer Stelle aber ein wenig zu dick aufträgt.
+Zunächst einmal finde ich die Erkenntnis, dass unsere Zivilisation auf Geschichten aufbaut, die ganz und gar nicht selbstverständlich sind, aber an die wir trotzdem glauben, sehr erhellend. 
+Wir glauben daran, dass unser technischer Fortschritt uns zwangsläufig zu einem besseren Leben führt, aber man kann das eben auch alles ganz anders sehen.
+Und selbst wenn man daran glaubt, muss jeder aufmerksame Beobachter zugeben, dass unser Fortschritt bisher auf Kosten der Natur voranschreitet.
+In seinen praktischen Vorschlägen greift Eisenstein viele ältere Ideen auf, wie die Begrenzung der Ressourven und die Idee der Circular Economy, aber auch den Negativzins.
+Ich denke, dass zumindest die Idee der lokalen Währungen doch recht kritisch gesehen werden sollte.
+Wollen wir wirklich zurück zu einer Situation, wie man sie im Deutschland des 19. Jahrhunderts hatte: viele kleine Einzelregionen mit ihren eigenen Währungen und entkoppelten Wirtschaftsystemen, die einen Austausch auf nationaler Ebene äußerst erschwerten?
+Das erscheint kaum erstrebenswert.
 
 
 
@@ -98,6 +128,10 @@ Detaillierter Vergleich
 * Fazit
 
 * Footnotes
+
+[fn:6] Dies ist eine Forderung, die auch von Befürwortern der Circular Economy oder auch in Kate Raworth's Doughnut Economy häufig erhoben wird.
+
+[fn:5] Als Beispiele wären hier Niko Paechs Postwachstumsökonomie oder ... zu nennen.
 
 [fn:4] Dieser Prozess wird auch als "Landnahme-Theorie des Kapitalismus" bezeichnet, siehe zum Beispiel Episode 29 des "Wohlstand für Alle"-Podcasts (https://wohlstandfueralle.podigee.io/29-neue-episode) oder Klaus Dörre, "Die neue Landnahme. Dynamiken und Grenzen des Finanzmarktkapitalismus."
 
