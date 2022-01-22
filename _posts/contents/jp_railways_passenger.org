@@ -1,0 +1,143 @@
+Die japanische Eisenbahn aus der Sicht eines Passagiers
+
+Es ist unbestritten, dass wir angesichts der ökologischen Krise unsere Mobilität nachhaltiger und umweltschonender gestalten müssen.
+Eine wichtige, wenn nicht die wichtigste, Rolle kommt dabei der Eisenbahn sowohl im Nah- als auch Fernverkehr zugute.
+Es gibt kaum einen effizienteren Weg, große Gruppen von Menschen über mittlere bis lange Strecken zu transportieren. 
+Und doch ist es beispielsweise in Deutschland beinahe Volkssport, sich über den öffentlichen Personennahverkehr und die Deutsche Bahn aufzuregen.
+Mangelnde Pünktlichkeit, unfreundliches Personal, schmutzige Züge und Bahnhöfe - Anlässe für Beschwerden gibt es viele.
+In diesem Text möchte ich aus dem gelobten Land des Eisenbahnverkehrs berichten, in dem ich mittlerweile seit fast fünf Jahren lebe - aus Japan.
+
+Was macht den Bahnverkehr in Japan so besonders und so angenehm? Wie unterscheidet sich das Erlebnis als Passagier in Japan von der deutschen Erfahrung?
+In diesem Text werde ich viele einzelne Punkte beschreiben, aus denen sich ein Gesamtbild zusammensetzt, das sich von den Erfahrungen im deutschen Bahnverkehr deutlich absetzt.
+Einige dieser Punkte lassen sich nur mit viel Aufwand, vor allem beim Personal oder dem Zugmaterial, umsetzen, andere wären, aus meiner Sicht, mit relativ geringem Aufwand umzusetzen.
+Dazu muss ich sagen, dass sich meine Erfahrungen zwar in erster Linie auf den Großraum Tokyo beziehen, der sicherlich auch in Japan einen gewissen Sonderstatus genießt.
+Trotzdem kann ich von vielen Reisen in Japan, auch im ländlichen Raum, berichten und bestätigen, dass viele Punkte für das ganze Land gelten.
+
+* Servicekultur
+
+Allgemein gilt in Japan, dass Service auf extrem hohen Niveau stattfindet, sei es im öffentlichen Dienst, in Restaurants oder eben im Zugverkehr.
+Höflichkeit und Hilfsbereitschaft sind die Regel, der Kunde ist grundsätzlich König.
+Selbst wenn man ihnen mit geringen oder gänzlich abwesenden Japanischkenntnissen entgegen tritt, werden Bedienstete immer höflich auftreten und versuchen, behilflich zu sein.
+An fast jedem Ticketgate (siehe unten) befindet sich eine Kabine mit Personal, auf den Bahnsteigen trifft man häufig Servicekräfte an und in größeren Bahnhöfen gibt es an allen Ausgängen Informationsstellen.
+Zum Vergleich: Am S-Bahn Köln-Ehrenfeld, immerhin einer der wichtigsten S-Bahnhöfe Kölns, habe ich in fünf Jahren täglichen Pendelns nicht ein einziges Mal einen Mitarbeiter angetroffen. 
+Das Berufsbild des Bahnhofsvorsteher wurde in Deutschland schon vor langer Zeit abgeschafft.
+
+Dazu kommt, dass Bahnhöfe in Japan sehr sauber sind.
+Es gibt so gut wie nie Abfalleimer, auch aus Angst vor Bombenanschlägen ([fn:1]), und doch liegt niemals Müll herum. Das liegt einerseits an der Disziplin der Japaner, andererseits an regelmäßigen Reinigungen der Bahnhöfe.
+Diese betreffen auch die immer vorhandenen kostenlosen (!) Toiletten, in denen meist sogar Wickeltische für Babys gibt.
+
+Ein weiterer wichtiger Punkt ist die Informationskultur: in Tokyo sind die meisten Hinweisschilder in Bahnhöfen viersprachig auf Japanisch, Chinesisch, Koreanisch und Englisch vorhanden.
+In ländlichen Regionen ist das nicht immer Fall, wichtige Informationen sind jedoch so gut wie immer auch auf Englisch übersetzt.
+Ansagen gibt es auf größeren Bahnhöfen und in Tokyo überall ebenso auf Englisch. 
+Und falls man doch einmal Probleme haben sollte, sich den Namen eines Bahnhofs zu merken: die Stationen einer Linie sind jeweils durchnummeriert und tragen das Kürzel der Linie; so muss man sich im Zweifel lediglich das Kürzel merken.
+Distanzen zu Bahnsteigen, Umsteigemöglichkeiten, Ausgängen etc. werden immer ausgeschildert- in den riesigen, verschachtelten Bahnhöfen Tokyos, die oft die Bahnhöfe mehrerer Bahngesellschaften bündeln, ist das eine wichtige Informationen.
+
+* Organisation
+
+Japanische Züge sind sowohl im Nah- als auch Fernverkehr auf Funktionalität getrimmt.
+Das bedeutet in den meisten Nahkehrszügen, S- und U-Bahnen, dass es viele Stehplätze und relativ wenige Sitzplätze gibt (meist auf gegenüberliegenden, den Fenstern abgewandten Sitzbänken), mit wenigen Ausnahmen keine Treppen in Zügen zu überwinden sind und das Interieur meist schmücklos und standardisiert gehalten ist. 
+Die Quälerei, in deutschen Doppelstockwagen Koffer und Kinderwagen treppauf und treppab zu schleppen, entfällt einfach.
+Auch im Shinkansen gilt: Funktionalität und maximale Kapazität vor Design. So schaffte es die japanische Bahn, in ihren berühmtem Hochgeschwindigkeitszügen fünf Sitzplätze in einer Reihe anzuordenen (2 auf einer Seite, 3 auf der anderen), dabei jedoch mehr Beinfreiheit als im ICE bereitzustellen.
+Zusätzlich gibt es im Shinkansen Toiletten, Wickelmöglichkeiten und Waschbecken in jedem Waggon.
+Eltern, die schon einmal einen halben ICE auf der Suche nach einem der Bretter, die die DB als Wickeltische bezeichnet, durchquert haben, werden das zu schätzen wissen.
+
+<figure>
+<img src="/img/japan_railway/japan_inside_train.jpg">
+
+<figcaption align="center"><b>Blick ins Innere eines Zuges der Mita-Linie der U-Bahn in Tokyo (links) und eines Nozomi Shinkansen, der auf der Strecke Tokyo - Osaka verkehrt (rechts). Quellen: ivva, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons (links) & Tennen-Gas, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons (rechts) </b>
+</figcaption>
+</figure>
+
+Die Züge sind allgemein immer gleich aufgebaut: U- und S-Bahnen haben immer 8 oder 10 Wagen, Shinkansen haben immer 8 oder 16 Wagen.
+Wagen 1 bis 3 im Shinkansen sind immer die Wagen mit unreservierten Sitzen, alle anderen Wagen kann man nur mit entsprechender Reservierung (gegen relativ geringen Aufpreis erhältlich) benutzen.
+Die Reihe 1 im Shinkansen befindet sich immer am Anfang oder Ende (die Sitzplätze werden im Shinkansen am Endbahnhof einfach umgedreht, sodass der Zug direkt wieder abfahren kann) und die Wagen und Reihen sind systematisch durchnumeriert.
+Kein Vergleich zum deutschen Fernverkehr, in dem Wagen- und Sitznummer ohne erkennbare Systematik ausgewählt und zufällig verteilt werden [fn:2], was regelmäßig für große Verwirrung, Konflikte und Staus beim Einsteigen sorgt.
+
+Ein weiterer, extrem wichtiger Punkt: wer schon einmal in Deutschland Zug gefahren ist, kennt das Spiel beim Einfahren des Zugs: Die Reisenden haben sich mehr oder weniger gleichverteilt über den Bahnsteig aufgestellt, ungefähr dort, wo laut Wagenstandsanzeige ihr Wagen halten soll. 
+Fährt der Zug ein, beginnt ein wildes Gerenne, da man nie genau weiß, wo der Wagen hält, gefolgt von großen Menschentrauben an jeder Tür und Verteilungskämpfen, wer nun zuerst den Wagen betreten darf. 
+Vom regelmäßig auftretenden Klassiker "Heute in umgekehrter Wagenreihung" mal ganz abgesehen.
+Wie wohltuend anders das Prozedere in Japan: Auf dem Bahnsteig ist fest markiert, wo welcher Wagen hält (sowohl beim Shinkansen als auch bei jeder Nahverkehrlinie und U-Bahn). 
+Man kann sich also genau an der richtigen Stelle aufstellen, was immer in einer geordneten Warteschlange stattfindet. 
+Keine Gerenne wegen "umgekehrter Wagenreihung" oder, Gott bewahre, weil ein Wagen fehlt.
+So kann ein Shinkansen seine Standzeiten an den Bahnhöfen tatsächlich auf 90 Sekunden bis 2 Minuten begrenzen.
+Diese Verlässlichkeit gilt auch für Bahnsteige im Allgemeinen: Nah- und Fernverkehrslinien haben fest zugeordnete Bahnsteige, und sind auf getrennten Gleisen, streng genommen sogar in getrennten, jedoch verbundenen, Bahnhöfen unterwegs.
+
+
+<figure>
+<img src="/img/japan_railway/japan_queue.jpg">
+
+<figcaption align="center"><b>Passagiere warten auf einem japanischen Bahnsteig auf die Einfahrts des Zuges. Quelle: Siyuwj, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons</b>
+</figcaption>
+</figure>
+
+* Pünktlichkeit
+
+Allgemein gilt: In Japan sind Züge pünktlich.
+Im Großraum Tokyo, wo U- und S-Bahnen mitunter im 2-Minuten-Takt verkehren, mag es einem nicht immer auffallen, aber man kann sich auf Abfahrtszeiten absolut verlassen. 
+Beim Shinkansen ist die Pünktlichkeit bereits weltberühmt. So betrug im Jahr 2018 die durchschnittliche Verspätung des Tokaido Shinkansen (der zwischen Tokyo und Osaka verkehrt) ca 0.7 Minuten [fn:3].
+Auf dieser Strecke verkehrt der Shinkansen übrigens tagsüber im 10 Minuten Takt.
+Dies verändert natürlich die gesamte Reiseplanung als Passagier.
+Während man in Deutschland mindestens 10 bis 15 Minuten Karenzzeit für Umstiege einplanen sollte und sich im Zweifel besser ein oder zwei Alternativverbindungen heraussucht, kann man sich in Japan absolut darauf verlassen, dass Verbindungen und Umstiege klappen.
+Der ganze Stress, der einen in Deutschland während der Zugfahrt begleitet - das ständige Überprüfen der momentanen Verspätung ist, ob man die Anschlüsse schafft, welche Alternativen man noch hat - entfällt einfach.
+Der wichtigste Faktor beim Umsteigen sind hier nicht eventuelle Verspätungen, sondern höchstens die mitunter großen Bahnhöfe, zumindest in den Ballungszentren, und die hohen Fahrgastzahlen, die das Umsteigen mitunter erschweren.
+
+* Fahrpreise und Ticketsysteme
+
+Allgemein kann man sagen, dass der Fernverkehr in Japan (d.h. der Shinkansen) teurer als in Deutschland ist, während der Nahverkehr deutlich günstiger ist.
+Beim Shinkansen gibt es keine Rabattsysteme und Sparpreise wie in Deutschland, es gibt auch kein Äquivalent zur Bahncard, sodass man prinzipiell einen Einheitspreis zahlt [fn:4].
+Dieser gilt unabhängig vom Buchungszeitpunkt, die Strecke Tokyo-Osaka (Fahrzeit 2h 27 min mit der schnellsten Variante, ca. 515 km) kostet beispielsweise ca. 14.000 Yen, umgerechnet 107 Euro.
+Dafür fährt man in einem sehr schnellen Zug, der, wie bereits erwähnt, tagsüber alle 10 Minuten abfährt.
+So kann man, falls man auf die Platzreservierung verzichtet, den Shinkansen beinahe wie eine S-Bahn behandeln: man nimmt einfach den nächsten Zug, der kommt.
+Hat man jedoch eine Platzreservierung und verpasst aus irgendwelchen Gründen seinen Zug, kann man die Reservierung einfach bequem per Handyapp umbuchen, ohne Aufpreis oder ähnliches.
+Anders als der ICE, der seine Höchstgeschwindigkeit nur auf wenigen Strecken erreicht, erreicht der Shinkansen auf besagter Strecke Tokyo-Osaka Höchstgeschwindigkeiten von 285 km/h.
+
+Der Nahverkehr von Tokyo kann einen auf den ersten Blick erschlagen. Es gibt ein UBahn-System mit 13 Linien, die von zwei Gesellschaften betrieben werden.
+Dazu das S-Bahn-System der halbstaatlichen Japan Railways insgesamt 23 Linien im Großraum Tokyo.
+Und obendrauf noch die Linien der privaten Bahngesellschaften, die insgesamt 24 Linien betreiben.
+Die gute Nachricht ist: diese vielen Linien sind mit einander verbunden und oft bleibt man einfach im Zug sitzen, während sich die Linienbezeichnung ändert, denn die Bahngesellschaften kooperieren miteinander und tauschen die Züge quasi im laufenden Betrieb untereinander aus.
+Dazu ist es unglaublich einfach und günstig, sich in diesem riesigen, komplexen Systemen zu bewegen.
+Die Ticketpreise der Züge sind gestaffelt nach Distanzen. 
+So kosten Tickets in der UBahn beispielsweise zwischen 170 (bis 6km, 1,30 Euro) und 320 Yen (ab 32km, 2,46 Euro) [fn:5].
+Ein Beispiel: vom Hauptbahnhof in Tokyo zum Bahnhof Shinjuku (dem meistfrequentierten Bahnhof der Welt), zahlt man für ca. 25 Minuten U-Bahn 276 Yen (2,12 Euro).
+Zum Vergleich: eine Einzelfahrt in Köln kostet 3 Euro, in München 3,40 Euro. Beide Städte wären von der Größe her in Tokyo ungefähr so groß wie zwei (von 23) Bezirken.
+Die variablen Preise im Nahverkehr mögen zunächst kompliziert erscheinen, aber die gute Nachricht ist: Für all diese Tickets benötigt man lediglich eine Chipkarte, die man mit Geld belädt (oder direkt mit seiner Kreditkarte verbindet) und dann für sämtliche Züge benutzen kann.
+Abgesehen von Spezialzügen (u.a. der Shinkansen) muss man sich lediglich am Ticketgate (sämtliche Bahnsteige sind von Gates abgeschirmt) ein- und wieder auschecken, das Geld wird automatisch abgebucht.
+Kein langes Suchen nach dem richtigen Tarif, keine Recherche bezüglich Verbundgrenzen, Übergangstickets usw., all diese Stressfaktoren entfallen.
+Es gibt zwar Ticketautomaten, aber diese benötigt man eigentlich nur, um Geld auf die Chipkarte zu laden oder um eventuell eine spezielle Zeitkarte (Tages- oder spezielle Touristenkarten) zu erwerben.
+Durch die Ticketgates sind auch Fahrscheinkontrollen nicht nötig und Schwarzfahren ist so gut wie ausgeschlossen.
+
+
+<figure>
+<img src="/img/japan_railway/ticket_gate.jpg">
+
+<figcaption align="center"><b>Ticket Gates am JR Bahnhof Shinjuku. Quelle: Mister0124, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons. </b>
+</figcaption>
+</figure>
+
+* Fazit
+
+Dieser Text beleuchtet die Erfahrungen, die man als Passagier im Eisenbahnverkehr in Japan macht, sowohl im Nah- als auch Fernverkehr. 
+Bahnfahren in Japan ist eine wahre Wonne, von der Servicekultur, der Organisation und Pünktlichkeit des Verkehrs bis hin zu den Ticketpreisen: man kann sich in Japan mit der Bahn extrem gut fortbewegen, denn die meisten der Stressfaktoren, die man aus Deutschland kennt, entfallen einfach.
+Das bedeutet nicht zwangsläufig, dass man kein Auto benötigt. In Tokyo und anderen Ballungszentren ist ein Auto definitiv nicht nötig, auf dem Land sieht es da auch in Japan mitunter ganz anders aus. 
+Trotzdem würde ich behaupten, dass auch in ländlichen Regionen der ÖPNV, wenn man noch Busse hinzunimmt, deutliche höhere Qualität aufweist als in Deutschland.
+
+Kann man also Japan als uneingeschränktes Vorbild für Deutschland nehmen? Ich denke, es gibt viele Dinge, die man nur über massive Investitionen in die Infrastruktur übernehmen könnte, wie z.B. die Pünktlichkeit und die hohe Taktfrequenz.
+Auch eine Wiedereinführung von Bahnhofsvorstehern oder allgemein mehr Personal am Bahnhof ist natürlich auch eine Kostenfrage, aber eben auch eine Frage der Einstellung zum Kunden: will ich den Fahrgast mit monotonen, automatisierten Ansagen abspeisen? Ist es für mich als Bahn akzeptabel, dass Güterzüge ohne Warnung auf Bahnsteigen durchrauschen und damit Fahrgäste gefährden? Lasse ich meine Kunden mit ihren Fragen und Bedürfnissen alleine?
+
+Andere Punkte scheinen in erster Linie eine Frage der Einstellung zu sein, besonders im Bereich der Servicekultur.
+Und wieder andere Punkte könnte man sicherlich durch eine andere Organisation des Verkehrs verändern, zum Beispiel feste und verlässliche Zuglängen, Sitz- und Wagennummern, festgelegte Gleise für Bahnlinien, bessere Ausschilderung an Bahnhöfen. 
+
+Zusammenfassend würde ich sagen, dass sich die deutsche Bahn und die deutsche Politik auf jeden Fall ein Beispiel an Japan nehmen sollte.
+Es gibt viele Unterschiede zwischen den beiden Ländern, besonders in der Geographie und der daraus resultierenden Topologie des Schienennetzes.
+Es gibt aber auch Gemeinsamkeiten, zum Beispiel hat auch Japan eine mächtige Autoindustrie und doch hat man sich hier, anders als in Deutschland, nicht dazu entschlossen, die Verkehrsplanung allein auf das Auto auszurichten.
+In einem Folgeartikel werde ich mich damit befassen, wie und warum das Eisenbahnsystem in Japan funktioniert und was sich Deutschland hier von Japan abgucken könnte.
+
+
+* Referenzen
+
+[fn:1] Nach dem Giftgasanschlag in der Tokyoer U-Bahn 1995 wurden die Mülleimer in den Bahnhöfen abgeschafft. Siehe zum Beispiel https://www.bloomberg.com/news/articles/2019-05-23/where-are-all-the-trash-cans-in-japanese-cities.
+[fn:2] Die berüchtigen Wagennummern 22-27,35-39 im ICE und die Sitzplatznummern in den deutschen Fernzügen, die scheinbar zufällig auf die Sitzen geworfen werden.
+[fn:3] https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2018.pdf
+[fn:4] Es gibt verschiedene Möglichkeiten, ein bisschen Geld zu sparen, aber das beschränkt sich auf Rabatte von vielleicht höchstens 10 Prozent, also kein Vergleich zum deutschen System.
+[fn:5] https://www.tokyometro.jp/en/ticket/regular/index.html
+
