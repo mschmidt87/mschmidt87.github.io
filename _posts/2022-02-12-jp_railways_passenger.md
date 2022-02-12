@@ -76,7 +76,7 @@ Die Quälerei, in deutschen Doppelstockwagen Koffer und Kinderwagen treppauf und
 <figure>
 <img src="/img/japan_railway/japan_inside_train.jpg">
 
-<figcaption align="center"><b>Blick ins Innere eines Zuges der Mita-Linie der U-Bahn in Tokyo (links) und eines Nozomi Shinkansen, der auf der Strecke Tokyo - Osaka verkehrt (rechts). Quellen: ivva, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons (links) & Tennen-Gas, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons (rechts) </b>
+<figcaption align="center"><b>Blick ins Innere eines Zuges der Mita-Linie der U-Bahn in Tokyo. Quelle: ivva, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</b>
 </figcaption>
 </figure>
 
@@ -214,10 +214,10 @@ In einem Folgeartikel werde ich mich damit befassen, wie und warum das Eisenbahn
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> Die berüchtigen Wagennummern 22-27,35-39 im ICE und die Sitzplatznummern in den deutschen Fernzügen, die scheinbar zufällig auf die Sitzen geworfen werden.
 
-<sup><a id="fn.4" href="#fnr.3">3</a></sup> <https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2018.pdf>
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> <https://global.jr-central.co.jp/en/company/ir/annualreport/_pdf/annualreport2018.pdf>
 
-<sup><a id="fn.5" href="#fnr.4">4</a></sup> Es gibt verschiedene Möglichkeiten, ein bisschen Geld zu sparen, aber das beschränkt sich auf Rabatte von vielleicht höchstens 10 Prozent, also kein Vergleich zum deutschen System.
+<sup><a id="fn.5" href="#fnr.5">5</a></sup> Es gibt verschiedene Möglichkeiten, ein bisschen Geld zu sparen, aber das beschränkt sich auf Rabatte von vielleicht höchstens 10 Prozent, also kein Vergleich zum deutschen System.
 
-<sup><a id="fn.6" href="#fnr.5">5</a></sup> Anders als der ICE, der wirklich hohe Geschwindigkeiten nur auf wenigen Strecken erreicht, erreicht der Shinkansen auf besagter Strecke Tokyo-Osaka Höchstgeschwindigkeiten von 285 km/h.
+<sup><a id="fn.6" href="#fnr.6">6</a></sup> Anders als der ICE, der wirklich hohe Geschwindigkeiten nur auf wenigen Strecken erreicht, erreicht der Shinkansen auf besagter Strecke Tokyo-Osaka Höchstgeschwindigkeiten von 285 km/h.
 
-<sup><a id="fn.7" href="#fnr.6">6</a></sup> <https://www.tokyometro.jp/en/ticket/regular/index.html>
+<sup><a id="fn.7" href="#fnr.7">7</a></sup> <https://www.tokyometro.jp/en/ticket/regular/index.html>
