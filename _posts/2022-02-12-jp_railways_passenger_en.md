@@ -136,7 +136,6 @@ This applies regardless of the time of booking, the route Tokyo-Osaka (travel ti
 
 For this you travel on a very fast train that leaves every 10 minutes during the day  <sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>.
 So, if you don't have a seat reservation, you can treat the Shinkansen almost like a commuter train: you just take the next train that comes along.
-However, if you have a seat reservation and miss your train for some reason, you can simply rebook your reservation conveniently via app, with no extra charge or anything.
 
 Tokyo's mass transit system can boggle the mind at first glance. There is a subway system with 13 lines operated by two companies.
 In addition, there is the commuter train system of the semi-public Japan Railways with a total of 23 lines in the Tokyo metropolitan area.

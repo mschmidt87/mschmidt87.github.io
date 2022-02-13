@@ -137,7 +137,6 @@ Dieser gilt unabhängig vom Buchungszeitpunkt, die Strecke Tokyo-Osaka (Fahrzeit
 
 Dafür fährt man in einem sehr schnellen Zug, der tagsüber alle 10 Minuten abfährt <sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>.
 So kann man, falls man auf die Platzreservierung verzichtet, den Shinkansen beinahe wie eine S-Bahn behandeln: man nimmt einfach den nächsten Zug, der kommt.
-Hat man jedoch eine Platzreservierung und verpasst aus irgendwelchen Gründen seinen Zug, kann man die Reservierung einfach bequem per App umbuchen, ohne Aufpreis oder ähnliches.
 
 Der Nahverkehr von Tokyo kann einen auf den ersten Blick erschlagen. Es gibt ein U-Bahn-System mit 13 Linien, die von zwei Gesellschaften betrieben werden.
 Dazu das S-Bahn-System der halbstaatlichen Japan Railways mit insgesamt 23 Linien im Großraum Tokyo.
