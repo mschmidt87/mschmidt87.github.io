@@ -139,7 +139,7 @@ So, if you don't have a seat reservation, you can treat the Shinkansen almost li
 
 Tokyo's mass transit system can boggle the mind at first glance. There is a subway system with 13 lines operated by two companies.
 In addition, there is the commuter train system of the semi-public Japan Railways with a total of 23 lines in the Tokyo metropolitan area.
-And on top of that, there are the lines of the private railroad companies, which operate a total of 24 lines.
+And on top of that, there are the lines of the private railroad companies, which operate a total of 55 lines.
 In addition, depending on the line, up to 5-stage systems with express trains.
 The good news is: these many lines are interconnected and often you just stay on the train while the line designation changes, because the railroad companies cooperate with each other and exchange the trains quasi during operation.
 

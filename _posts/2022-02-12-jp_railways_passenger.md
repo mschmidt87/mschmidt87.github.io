@@ -140,7 +140,7 @@ So kann man, falls man auf die Platzreservierung verzichtet, den Shinkansen bein
 
 Der Nahverkehr von Tokyo kann einen auf den ersten Blick erschlagen. Es gibt ein U-Bahn-System mit 13 Linien, die von zwei Gesellschaften betrieben werden.
 Dazu das S-Bahn-System der halbstaatlichen Japan Railways mit insgesamt 23 Linien im Großraum Tokyo.
-Und obendrauf noch die Linien der privaten Bahngesellschaften, die insgesamt 24 Linien betreiben.
+Und obendrauf noch die Linien der privaten Bahngesellschaften, die insgesamt 55 Linien betreiben.
 Dazu, je nach Linie, bis zu 5-stufige Systeme mit Expresszügen.
 Die gute Nachricht ist: diese vielen Linien sind miteinander verbunden und oft bleibt man einfach im Zug sitzen, während sich die Linienbezeichnung ändert, denn die Bahngesellschaften kooperieren miteinander und tauschen die Züge quasi im laufenden Betrieb untereinander aus.
 
